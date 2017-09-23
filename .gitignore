@@ -1,5 +1,5 @@
 .DS_Store
-/[Ll]ibrary/
+#/[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
@@ -31,5 +31,5 @@ ExportedObj/
 sysinfo.txt
 
 # Builds
-*.apk
+#*.apk
 *.unitypackage
