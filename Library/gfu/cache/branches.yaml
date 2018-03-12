@@ -11,9 +11,9 @@ MonoBehaviour:
   m_Script: {fileID: -913181260, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-03-12T15:42:22.1402900+01:00
-  lastVerifiedAtString: 2018-03-12T15:42:22.1439360+01:00
-  initializedAtString: 2018-03-12T15:36:42.0686380+01:00
+  lastUpdatedAtString: 2018-03-12T17:34:20.0313350+01:00
+  lastVerifiedAtString: 2018-03-12T17:34:20.0377720+01:00
+  initializedAtString: 2018-03-12T17:33:57.0534930+01:00
   gitConfigBranch:
     name: master
     remote:
@@ -28,6 +28,9 @@ MonoBehaviour:
     isActive: 1
   remoteBranches:
   - name: origin/HEAD
+    tracking: '[None]'
+    isActive: 0
+  - name: origin/master
     tracking: '[None]'
     isActive: 0
   remotes:
@@ -52,9 +55,14 @@ MonoBehaviour:
     subKeys:
     - Values:
       - HEAD
+      - master
     subKeyValues:
     - Values:
       - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/cerkut/BreathingLabs---BreathDroid.git
+      - name: master
         remote:
           name: origin
           url: https://github.com/cerkut/BreathingLabs---BreathDroid.git

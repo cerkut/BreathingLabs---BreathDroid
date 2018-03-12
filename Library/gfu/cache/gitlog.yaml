@@ -11,10 +11,52 @@ MonoBehaviour:
   m_Script: {fileID: -530159753, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-03-12T15:42:24.1441820+01:00
-  lastVerifiedAtString: 2018-03-12T15:42:24.1441820+01:00
-  initializedAtString: 2018-03-12T15:36:44.8522500+01:00
+  lastUpdatedAtString: 2018-03-12T17:34:20.6769720+01:00
+  lastVerifiedAtString: 2018-03-12T17:34:20.6769720+01:00
+  initializedAtString: 2018-03-12T17:33:58.1450500+01:00
   log:
+  - commitID: 69880c1a7e617d9c1e3ea2927f204fb0b2d110fc
+    mergeA: 
+    mergeB: 
+    authorName: cerkut
+    authorEmail: Cumhur.Erkut@gmail.com
+    commitEmail: Cumhur.Erkut@gmail.com
+    commitName: cerkut
+    summary: update library
+    description: update library
+    timeString: 2018-03-12T15:42:34.0000000+01:00
+    commitTimeString: 2018-03-12T15:42:34.0000000+01:00
+    changes:
+    - path: Library/gfu/cache/branches.yaml
+      fullPath: /Users/cerkut/Developer/cerkut/BreathingLabs---BreathDroid/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gitlocks.yaml
+      fullPath: /Users/cerkut/Developer/cerkut/BreathingLabs---BreathDroid/Library/gfu/cache/gitlocks.yaml
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/cerkut/Developer/cerkut/BreathingLabs---BreathDroid/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/cerkut/Developer/cerkut/BreathingLabs---BreathDroid/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/cerkut/Developer/cerkut/BreathingLabs---BreathDroid/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: afd72302748cdf96584b3e308707bae64207c5ac
     mergeA: 
     mergeB: 
