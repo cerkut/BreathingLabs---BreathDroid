@@ -1,0 +1,3486 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12004, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_PixelRect:
+    serializedVersion: 2
+    x: 0
+    y: 45
+    width: 1680
+    height: 1005
+  m_ShowMode: 4
+  m_Title: 
+  m_RootView: {fileID: 2}
+  m_MinSize: {x: 950, y: 300}
+  m_MaxSize: {x: 10000, y: 10000}
+--- !u!114 &2
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12008, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 3}
+  - {fileID: 5}
+  - {fileID: 4}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1680
+    height: 1005
+  m_MinSize: {x: 950, y: 300}
+  m_MaxSize: {x: 10000, y: 10000}
+--- !u!114 &3
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12011, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1680
+    height: 30
+  m_MinSize: {x: 0, y: 0}
+  m_MaxSize: {x: 0, y: 0}
+  m_LastLoadedLayoutName: 
+--- !u!114 &4
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12042, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 985
+    width: 1680
+    height: 20
+  m_MinSize: {x: 0, y: 0}
+  m_MaxSize: {x: 0, y: 0}
+--- !u!114 &5
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 6}
+  - {fileID: 9}
+  - {fileID: 12}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 30
+    width: 1680
+    height: 955
+  m_MinSize: {x: 536, y: 392}
+  m_MaxSize: {x: 18008, y: 14042}
+  vertical: 0
+  controlID: 104
+--- !u!114 &6
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 7}
+  - {fileID: 8}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 355
+    height: 955
+  m_MinSize: {x: 200, y: 321}
+  m_MaxSize: {x: 4002, y: 8021}
+  vertical: 1
+  controlID: 134
+--- !u!114 &7
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 355
+    height: 637
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 14}
+  m_Panes:
+  - {fileID: 14}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &8
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 637
+    width: 355
+    height: 318
+  m_MinSize: {x: 102, y: 121}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 15}
+  m_Panes:
+  - {fileID: 15}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &9
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 10}
+  - {fileID: 11}
+  m_Position:
+    serializedVersion: 2
+    x: 355
+    y: 0
+    width: 856
+    height: 955
+  m_MinSize: {x: 234, y: 392}
+  m_MaxSize: {x: 10004, y: 14042}
+  vertical: 1
+  controlID: 105
+--- !u!114 &10
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 856
+    height: 488
+  m_MinSize: {x: 104, y: 121}
+  m_MaxSize: {x: 4004, y: 4021}
+  m_ActualView: {fileID: 18}
+  m_Panes:
+  - {fileID: 16}
+  - {fileID: 13}
+  - {fileID: 17}
+  - {fileID: 18}
+  m_Selected: 3
+  m_LastSelected: 0
+--- !u!114 &11
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 488
+    width: 856
+    height: 467
+  m_MinSize: {x: 234, y: 271}
+  m_MaxSize: {x: 10004, y: 10021}
+  m_ActualView: {fileID: 19}
+  m_Panes:
+  - {fileID: 19}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &12
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 1211
+    y: 0
+    width: 469
+    height: 955
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 22}
+  m_Panes:
+  - {fileID: 20}
+  - {fileID: 21}
+  - {fileID: 22}
+  m_Selected: 2
+  m_LastSelected: 0
+--- !u!114 &13
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12015, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_AutoRepaintOnSceneChange: 1
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Game
+    m_Image: {fileID: -2087823869225018852, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_DepthBufferBits: 32
+  m_Pos:
+    serializedVersion: 2
+    x: 357
+    y: 94
+    width: 852
+    height: 467
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_MaximizeOnPlay: 1
+  m_Gizmos: 0
+  m_Stats: 0
+  m_SelectedSizes: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_TargetDisplay: 0
+  m_ZoomArea:
+    m_HRangeLocked: 0
+    m_VRangeLocked: 0
+    m_HBaseRangeMin: -213
+    m_HBaseRangeMax: 213
+    m_VBaseRangeMin: -112.5
+    m_VBaseRangeMax: 112.5
+    m_HAllowExceedBaseRangeMin: 1
+    m_HAllowExceedBaseRangeMax: 1
+    m_VAllowExceedBaseRangeMin: 1
+    m_VAllowExceedBaseRangeMax: 1
+    m_ScaleWithWindow: 0
+    m_HSlider: 0
+    m_VSlider: 0
+    m_IgnoreScrollWheelUntilClicked: 0
+    m_EnableMouseInput: 1
+    m_EnableSliderZoom: 0
+    m_UniformScale: 1
+    m_UpDirection: 1
+    m_DrawArea:
+      serializedVersion: 2
+      x: 0
+      y: 17
+      width: 852
+      height: 450
+    m_Scale: {x: 2, y: 2}
+    m_Translation: {x: 426, y: 225}
+    m_MarginLeft: 0
+    m_MarginRight: 0
+    m_MarginTop: 0
+    m_MarginBottom: 0
+    m_LastShownAreaInsideMargins:
+      serializedVersion: 2
+      x: -213
+      y: -112.5
+      width: 426
+      height: 225
+    m_MinimalGUI: 1
+  m_defaultScale: 2
+  m_TargetTexture: {fileID: 0}
+  m_CurrentColorSpace: 0
+  m_LastWindowPixelSize: {x: 1704, y: 934}
+  m_ClearInEditMode: 1
+  m_NoCameraWarning: 1
+  m_LowResolutionForAspectRatios: 01000000000100000100
+--- !u!114 &14
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12061, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_AutoRepaintOnSceneChange: 0
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Hierarchy
+    m_Image: {fileID: -590624980919486359, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_DepthBufferBits: 0
+  m_Pos:
+    serializedVersion: 2
+    x: 0
+    y: 94
+    width: 353
+    height: 616
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_TreeViewState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 9efbffff00000000
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 0
+      m_ClientGUIView: {fileID: 7}
+    m_SearchString: 
+  m_ExpandedScenes:
+  - 021-FBXImport- mixamo
+  m_CurrenRootInstanceID: 0
+  m_Locked: 0
+  m_CurrentSortingName: TransformSorting
+--- !u!114 &15
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12003, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_AutoRepaintOnSceneChange: 0
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Console
+    m_Image: {fileID: 111653112392082826, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_DepthBufferBits: 0
+  m_Pos:
+    serializedVersion: 2
+    x: 0
+    y: 731
+    width: 353
+    height: 297
+  m_PersistentViewDataDictionary: {fileID: 0}
+--- !u!114 &16
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12013, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_AutoRepaintOnSceneChange: 1
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Scene
+    m_Image: {fileID: 2318424515335265636, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_DepthBufferBits: 0
+  m_Pos:
+    serializedVersion: 2
+    x: 357
+    y: 94
+    width: 852
+    height: 467
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_SceneLighting: 1
+  lastFramingTime: 7523.550130009651
+  m_2DMode: 0
+  m_isRotationLocked: 0
+  m_AudioPlay: 0
+  m_Position:
+    m_Target: {x: 609.6042, y: 512.5973, z: 0}
+    speed: 2
+    m_Value: {x: 609.6042, y: 512.5973, z: 0}
+  m_RenderMode: 0
+  m_ValidateTrueMetals: 0
+  m_SceneViewState:
+    showFog: 0
+    showMaterialUpdate: 0
+    showSkybox: 0
+    showFlares: 0
+    showImageEffects: 0
+    showParticleSystems: 1
+  grid:
+    xGrid:
+      m_Target: 0
+      speed: 2
+      m_Value: 0
+    yGrid:
+      m_Target: 1
+      speed: 2
+      m_Value: 1
+    zGrid:
+      m_Target: 0
+      speed: 2
+      m_Value: 0
+  m_Rotation:
+    m_Target: {x: -0.1271935, y: 0.8155982, z: -0.19597204, w: -0.52935475}
+    speed: 2
+    m_Value: {x: -0.1271935, y: 0.8155982, z: -0.19597204, w: -0.52935475}
+  m_Size:
+    m_Target: 22
+    speed: 2
+    m_Value: 22
+  m_Ortho:
+    m_Target: 0
+    speed: 2
+    m_Value: 0
+  m_ShowGlobalGrid: 1
+  m_LastSceneViewRotation: {x: -0.002017937, y: 0.87694633, z: -0.48057014, w: -0.0036823382}
+  m_LastSceneViewOrtho: 0
+  m_ReplacementShader: {fileID: 0}
+  m_ReplacementString: 
+  m_LastLockedObject: {fileID: 0}
+  m_ViewIsLockedToObject: 0
+--- !u!114 &17
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12111, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_AutoRepaintOnSceneChange: 0
+  m_MinSize: {x: 400, y: 100}
+  m_MaxSize: {x: 2048, y: 2048}
+  m_TitleContent:
+    m_Text: Asset Store
+    m_Image: {fileID: 357073275683767465, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_DepthBufferBits: 0
+  m_Pos:
+    serializedVersion: 2
+    x: 325
+    y: 94
+    width: 826
+    height: 413
+  m_PersistentViewDataDictionary: {fileID: 0}
+--- !u!114 &18
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12914, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_AutoRepaintOnSceneChange: 1
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Animator
+    m_Image: {fileID: 663490763026382308, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_DepthBufferBits: 0
+  m_Pos:
+    serializedVersion: 2
+    x: 357
+    y: 94
+    width: 852
+    height: 467
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_ViewTransforms:
+    m_KeySerializationHelper:
+    - {fileID: 1107884296337157892, guid: efded9ff14ffd46eb97c21f79f95a25e, type: 2}
+    m_ValueSerializationHelper:
+    - e00: 0.6410526
+      e01: 0
+      e02: 0
+      e03: -17.052612
+      e10: 0
+      e11: 0.6410526
+      e12: 0
+      e13: 145.1637
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+  m_PreviewAnimator: {fileID: 0}
+  m_AnimatorController: {fileID: 0}
+  m_BreadCrumbs: []
+  stateMachineGraph: {fileID: 0}
+  stateMachineGraphGUI: {fileID: 0}
+  blendTreeGraph: {fileID: 0}
+  blendTreeGraphGUI: {fileID: 0}
+  m_AutoLiveLink: 1
+  m_MiniTool: 0
+  m_SerializedLocked: 0
+  m_CurrentEditor: 0
+  m_LayerEditor:
+    m_SelectedLayerIndex: 0
+--- !u!114 &19
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12014, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_AutoRepaintOnSceneChange: 0
+  m_MinSize: {x: 230, y: 250}
+  m_MaxSize: {x: 10000, y: 10000}
+  m_TitleContent:
+    m_Text: Project
+    m_Image: {fileID: -7501376956915960154, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_DepthBufferBits: 0
+  m_Pos:
+    serializedVersion: 2
+    x: 357
+    y: 582
+    width: 852
+    height: 446
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_SearchFilter:
+    m_NameFilter: 
+    m_ClassNames: []
+    m_AssetLabels: []
+    m_AssetBundleNames: []
+    m_VersionControlStates: []
+    m_SoftLockControlStates: []
+    m_ReferencingInstanceIDs: 
+    m_ScenePaths: []
+    m_ShowAllHits: 0
+    m_SearchArea: 0
+    m_Folders:
+    - Assets/MoCap
+  m_ViewMode: 1
+  m_StartGridSize: 64
+  m_LastFolders:
+  - Assets/MoCap
+  m_LastFoldersGridSize: -1
+  m_LastProjectPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101
+  m_IsLocked: 0
+  m_FolderTreeState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: dc270000
+    m_LastClickedID: 10204
+    m_ExpandedIDs: 0000000044080000d8270000e02700001228000032280000442800006e2800007628000000ca9a3bffffff7f
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 0}
+    m_SearchString: 
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+  m_AssetTreeState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 0000000044080000d8270000e02700001228000032280000442800006e28000076280000
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 0}
+    m_SearchString: 
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+  m_ListAreaState:
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
+    m_HadKeyboardFocusLastEvent: 0
+    m_ExpandedInstanceIDs: 
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 0}
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+    m_NewAssetIndexInList: -1
+    m_ScrollPosition: {x: 0, y: 0}
+    m_GridSize: 64
+  m_DirectoriesAreaWidth: 265
+--- !u!114 &20
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12019, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_AutoRepaintOnSceneChange: 0
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Inspector
+    m_Image: {fileID: -6905738622615590433, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_DepthBufferBits: 0
+  m_Pos:
+    serializedVersion: 2
+    x: 1221
+    y: 94
+    width: 467
+    height: 934
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_ScrollPosition: {x: 0, y: 0}
+  m_InspectorMode: 0
+  m_PreviewResizer:
+    m_CachedPref: 375
+    m_ControlHash: -371814159
+    m_PrefName: Preview_InspectorPreview
+  m_PreviewWindow: {fileID: 0}
+--- !u!114 &21
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12157, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_AutoRepaintOnSceneChange: 0
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Services
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  m_DepthBufferBits: 0
+  m_Pos:
+    serializedVersion: 2
+    x: 1277
+    y: 149
+    width: 275
+    height: 784
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_InitialOpenURL: https://public-cdn.cloud.unity3d.com/editor/production/cloud/hub
+  m_GlobalObjectTypeName: 
+  m_RegisteredViewURLs:
+  - https://public-cdn.cloud.unity3d.com/editor/production/cloud/hub
+  m_RegisteredViewInstances:
+  - {fileID: 0}
+--- !u!114 &22
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 363648761, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_AutoRepaintOnSceneChange: 0
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: GitHub
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  m_DepthBufferBits: 0
+  m_Pos:
+    serializedVersion: 2
+    x: 1213
+    y: 94
+    width: 467
+    height: 934
+  m_PersistentViewDataDictionary: {fileID: 0}
+  changeTab: 5
+  activeTab: 5
+  initProjectView:
+    hasCompletedInitialCheck: 0
+    isUserDataPresent: 0
+    lastCheckUserChangedEvent:
+      updatedTimeString: 
+  branchesView:
+    treeLocals:
+      IsRemote: 0
+      folders:
+        keys:
+        - Local branches
+        values:
+        - path: Local branches
+          label: Local branches
+          level: 0
+          isFolder: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 0
+          checkState: 0
+      checkedFileNodes:
+        keys: []
+        values: []
+      title: Local branches
+      pathSeparator: /
+      displayRootNode: 1
+      isSelectable: 1
+      isCheckable: 0
+      nodes:
+      - path: Local branches
+        label: Local branches
+        level: 0
+        isFolder: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+      - path: master
+        label: master
+        level: 1
+        isFolder: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 1
+        treeIsCheckable: 0
+        checkState: 0
+      selectedNode:
+        path: 
+        label: 
+        level: 0
+        isFolder: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+    treeRemotes:
+      IsRemote: 1
+      folders:
+        keys:
+        - Remote branches
+        - origin
+        values:
+        - path: Remote branches
+          label: Remote branches
+          level: 0
+          isFolder: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 0
+          checkState: 0
+        - path: origin
+          label: origin
+          level: 1
+          isFolder: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 0
+          checkState: 0
+      checkedFileNodes:
+        keys: []
+        values: []
+      title: Remote branches
+      pathSeparator: /
+      displayRootNode: 1
+      isSelectable: 1
+      isCheckable: 0
+      nodes:
+      - path: Remote branches
+        label: Remote branches
+        level: 0
+        isFolder: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+      - path: origin
+        label: origin
+        level: 1
+        isFolder: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+      - path: origin/HEAD
+        label: HEAD
+        level: 2
+        isFolder: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+      - path: origin/master
+        label: master
+        level: 2
+        isFolder: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+      selectedNode:
+        path: 
+        label: 
+        level: 0
+        isFolder: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+    mode: 0
+    newBranchName: 
+    scroll: {x: 0, y: 0}
+    disableDelete: 1
+    disableCreate: 1
+    lastLocalAndRemoteBranchListChangedEvent:
+      updatedTimeString: 2018-02-26T18:04:06.1160880+01:00
+    localBranches:
+    - name: master
+      tracking: origin/master
+      isActive: 1
+    remoteBranches:
+    - name: origin/HEAD
+      tracking: '[None]'
+      isActive: 0
+    - name: origin/master
+      tracking: '[None]'
+      isActive: 0
+  changesView:
+    commitBody: 
+    commitMessage: 
+    currentBranch: '[master]'
+    treeScroll: {x: 0, y: 0}
+    treeChanges:
+      assets:
+        keys: []
+        values: []
+      folders:
+        keys: []
+        values: []
+      checkedFileNodes:
+        keys: []
+        values: []
+      title: 
+      pathSeparator: /
+      displayRootNode: 0
+      isSelectable: 1
+      isCheckable: 1
+      isUsingGlobalSelection: 1
+      nodes:
+      - path: 
+        label: 
+        level: -1
+        isFolder: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        projectPath: 
+        gitFileStatus: 0
+        isLocked: 0
+      selectedNode:
+        path: 
+        label: 
+        level: 0
+        isFolder: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+        projectPath: 
+        gitFileStatus: 0
+        isLocked: 0
+    gitStatusEntries: []
+    changedFilesText: No changed files
+    lastCurrentBranchChangedEvent:
+      updatedTimeString: 2018-02-22T09:53:04.9681620+01:00
+    lastStatusEntriesChangedEvent:
+      updatedTimeString: 2018-02-26T18:05:49.3570330+01:00
+    lastLocksChangedEvent:
+      updatedTimeString: 
+  historyView:
+    hasItemsToCommit: 0
+    hasRemote: 1
+    currentRemoteName: origin
+    historyControl:
+      scroll: {x: 0, y: 0}
+      entries:
+      - commitID: 7990a956b08873cbe8eb2c3abad8f73375b22fad
+        mergeA: 
+        mergeB: 
+        authorName: cerkut
+        authorEmail: Cumhur.Erkut@gmail.com
+        commitEmail: Cumhur.Erkut@gmail.com
+        commitName: cerkut
+        summary: We correctedf the port in the class
+        description: We correctedf the port in the class
+        timeString: 2018-02-22T11:59:59.0000000+01:00
+        commitTimeString: 2018-02-22T11:59:59.0000000+01:00
+        changes:
+        - path: Assets/00-SmartsuitActorParticles.unity
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/00-SmartsuitActorParticles.unity
+          projectPath: Assets/00-SmartsuitActorParticles.unity
+          originalPath: 
+          status: 3
+          staged: 0
+      - commitID: c6cc951c7cc8ba179cdc59d596b482649b225254
+        mergeA: 
+        mergeB: 
+        authorName: cerkut
+        authorEmail: Cumhur.Erkut@gmail.com
+        commitEmail: Cumhur.Erkut@gmail.com
+        commitName: cerkut
+        summary: Lightsaber removed temporaly
+        description: Lightsaber removed temporaly
+        timeString: 2018-02-22T10:13:27.0000000+01:00
+        commitTimeString: 2018-02-22T10:13:27.0000000+01:00
+        changes:
+        - path: Assets/03-FBXLightSaber.unity
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/03-FBXLightSaber.unity
+          projectPath: Assets/03-FBXLightSaber.unity
+          originalPath: 
+          status: 5
+          staged: 0
+        - path: Assets/03-FBXLightSaber.unity.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/03-FBXLightSaber.unity.meta
+          projectPath: Assets/03-FBXLightSaber.unity.meta
+          originalPath: 
+          status: 5
+          staged: 0
+        - path: Assets/scripts/03-lightsaber.cs
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/scripts/03-lightsaber.cs
+          projectPath: Assets/scripts/03-lightsaber.cs
+          originalPath: 
+          status: 5
+          staged: 0
+        - path: Assets/scripts/03-lightsaber.cs.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/scripts/03-lightsaber.cs.meta
+          projectPath: Assets/scripts/03-lightsaber.cs.meta
+          originalPath: 
+          status: 5
+          staged: 0
+      - commitID: df8b1cc7a089ae269b7a96d3a95969e48571bc57
+        mergeA: 
+        mergeB: 
+        authorName: cerkut
+        authorEmail: Cumhur.Erkut@gmail.com
+        commitEmail: Cumhur.Erkut@gmail.com
+        commitName: cerkut
+        summary: Repo initialization
+        description: Repo initialization
+        timeString: 2018-02-22T09:54:50.0000000+01:00
+        commitTimeString: 2018-02-22T09:54:50.0000000+01:00
+        changes:
+        - path: Assets/00-SmartsuitActorParticles.unity
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/00-SmartsuitActorParticles.unity
+          projectPath: Assets/00-SmartsuitActorParticles.unity
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/00-SmartsuitActorParticles.unity.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/00-SmartsuitActorParticles.unity.meta
+          projectPath: Assets/00-SmartsuitActorParticles.unity.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/01-SmartsuitActorCube.unity
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/01-SmartsuitActorCube.unity
+          projectPath: Assets/01-SmartsuitActorCube.unity
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/01-SmartsuitActorCube.unity.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/01-SmartsuitActorCube.unity.meta
+          projectPath: Assets/01-SmartsuitActorCube.unity.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/02-FBXImport.unity
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/02-FBXImport.unity
+          projectPath: Assets/02-FBXImport.unity
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/02-FBXImport.unity.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/02-FBXImport.unity.meta
+          projectPath: Assets/02-FBXImport.unity.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/03-FBXLightSaber.unity
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/03-FBXLightSaber.unity
+          projectPath: Assets/03-FBXLightSaber.unity
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/03-FBXLightSaber.unity.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/03-FBXLightSaber.unity.meta
+          projectPath: Assets/03-FBXLightSaber.unity.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/MoCap.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/MoCap.meta
+          projectPath: Assets/MoCap.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/MoCap/New Animator Controller.controller
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/MoCap/New
+            Animator Controller.controller
+          projectPath: Assets/MoCap/New Animator Controller.controller
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/MoCap/New Animator Controller.controller.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/MoCap/New
+            Animator Controller.controller.meta
+          projectPath: Assets/MoCap/New Animator Controller.controller.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/MoCap/fast-movement.fbx
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/MoCap/fast-movement.fbx
+          projectPath: Assets/MoCap/fast-movement.fbx
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/MoCap/fast-movement.fbx.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/MoCap/fast-movement.fbx.meta
+          projectPath: Assets/MoCap/fast-movement.fbx.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins.meta
+          projectPath: Assets/Plugins.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub.meta
+          projectPath: Assets/Plugins/GitHub.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor.meta
+          projectPath: Assets/Plugins/GitHub/Editor.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+          projectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+          projectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/CREDITS.txt
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/CREDITS.txt
+          projectPath: Assets/Plugins/GitHub/Editor/CREDITS.txt
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/CREDITS.txt.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/CREDITS.txt.meta
+          projectPath: Assets/Plugins/GitHub/Editor/CREDITS.txt.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/DotNetHttp35.dll
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/DotNetHttp35.dll
+          projectPath: Assets/Plugins/GitHub/Editor/DotNetHttp35.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/DotNetHttp35.dll.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/DotNetHttp35.dll.meta
+          projectPath: Assets/Plugins/GitHub/Editor/DotNetHttp35.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/EULA.txt
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/EULA.txt
+          projectPath: Assets/Plugins/GitHub/Editor/EULA.txt
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/EULA.txt.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/EULA.txt.meta
+          projectPath: Assets/Plugins/GitHub/Editor/EULA.txt.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+          projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+          projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
+          projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+          projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+          projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+          projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
+          projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+          projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+          projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+          projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+          projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+          projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll
+          projectPath: Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll.meta
+          projectPath: Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+          projectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+          projectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/Mono.Security.dll
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/Mono.Security.dll
+          projectPath: Assets/Plugins/GitHub/Editor/Mono.Security.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/Mono.Security.dll.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/Mono.Security.dll.meta
+          projectPath: Assets/Plugins/GitHub/Editor/Mono.Security.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/Octokit.dll
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/Octokit.dll
+          projectPath: Assets/Plugins/GitHub/Editor/Octokit.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/Octokit.dll.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/Octokit.dll.meta
+          projectPath: Assets/Plugins/GitHub/Editor/Octokit.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/PlatformResources.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/PlatformResources.meta
+          projectPath: Assets/Plugins/GitHub/Editor/PlatformResources.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/PlatformResources/mac.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/PlatformResources/mac.meta
+          projectPath: Assets/Plugins/GitHub/Editor/PlatformResources/mac.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/PlatformResources/mac/git-lfs.zip
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/PlatformResources/mac/git-lfs.zip
+          projectPath: Assets/Plugins/GitHub/Editor/PlatformResources/mac/git-lfs.zip
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/PlatformResources/mac/git-lfs.zip.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/PlatformResources/mac/git-lfs.zip.meta
+          projectPath: Assets/Plugins/GitHub/Editor/PlatformResources/mac/git-lfs.zip.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/PlatformResources/windows.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/PlatformResources/windows.meta
+          projectPath: Assets/Plugins/GitHub/Editor/PlatformResources/windows.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/PlatformResources/windows/git-lfs.zip
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/PlatformResources/windows/git-lfs.zip
+          projectPath: Assets/Plugins/GitHub/Editor/PlatformResources/windows/git-lfs.zip
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/PlatformResources/windows/git-lfs.zip.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/PlatformResources/windows/git-lfs.zip.meta
+          projectPath: Assets/Plugins/GitHub/Editor/PlatformResources/windows/git-lfs.zip.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/PlatformResources/windows/git.zip
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/PlatformResources/windows/git.zip
+          projectPath: Assets/Plugins/GitHub/Editor/PlatformResources/windows/git.zip
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/PlatformResources/windows/git.zip.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/PlatformResources/windows/git.zip.meta
+          projectPath: Assets/Plugins/GitHub/Editor/PlatformResources/windows/git.zip.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/Rackspace.Threading.dll
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/Rackspace.Threading.dll
+          projectPath: Assets/Plugins/GitHub/Editor/Rackspace.Threading.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/Rackspace.Threading.dll.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/Rackspace.Threading.dll.meta
+          projectPath: Assets/Plugins/GitHub/Editor/Rackspace.Threading.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+          projectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+          projectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/System.Threading.dll
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/System.Threading.dll
+          projectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+          projectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/libsfw.bundle
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/libsfw.bundle
+          projectPath: Assets/Plugins/GitHub/Editor/libsfw.bundle
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+          projectPath: Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/libsfw.so
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/libsfw.so
+          projectPath: Assets/Plugins/GitHub/Editor/libsfw.so
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/libsfw.so.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/libsfw.so.meta
+          projectPath: Assets/Plugins/GitHub/Editor/libsfw.so.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/sfw.net.dll
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/sfw.net.dll
+          projectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+          projectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/x64.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/x64.meta
+          projectPath: Assets/Plugins/GitHub/Editor/x64.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+          projectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+          projectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+          projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+          projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/x86.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/x86.meta
+          projectPath: Assets/Plugins/GitHub/Editor/x86.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+          projectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+          projectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+          projectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+          projectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko.meta
+          projectPath: Assets/Rokoko.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit.meta
+          projectPath: Assets/Rokoko/Smartsuit.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Editor.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Editor.meta
+          projectPath: Assets/Rokoko/Smartsuit/Editor.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Editor/CommandSenderEditor.cs
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Editor/CommandSenderEditor.cs
+          projectPath: Assets/Rokoko/Smartsuit/Editor/CommandSenderEditor.cs
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Editor/CommandSenderEditor.cs.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Editor/CommandSenderEditor.cs.meta
+          projectPath: Assets/Rokoko/Smartsuit/Editor/CommandSenderEditor.cs.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Editor/ScaleAvatarEditor.cs
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Editor/ScaleAvatarEditor.cs
+          projectPath: Assets/Rokoko/Smartsuit/Editor/ScaleAvatarEditor.cs
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Editor/ScaleAvatarEditor.cs.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Editor/ScaleAvatarEditor.cs.meta
+          projectPath: Assets/Rokoko/Smartsuit/Editor/ScaleAvatarEditor.cs.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Editor/SmartsuitAbstractEditor.cs
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Editor/SmartsuitAbstractEditor.cs
+          projectPath: Assets/Rokoko/Smartsuit/Editor/SmartsuitAbstractEditor.cs
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Editor/SmartsuitAbstractEditor.cs.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Editor/SmartsuitAbstractEditor.cs.meta
+          projectPath: Assets/Rokoko/Smartsuit/Editor/SmartsuitAbstractEditor.cs.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Editor/SmartsuitActorEditor.cs
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Editor/SmartsuitActorEditor.cs
+          projectPath: Assets/Rokoko/Smartsuit/Editor/SmartsuitActorEditor.cs
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Editor/SmartsuitActorEditor.cs.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Editor/SmartsuitActorEditor.cs.meta
+          projectPath: Assets/Rokoko/Smartsuit/Editor/SmartsuitActorEditor.cs.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Editor/SmartsuitReceiverEditor.cs
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Editor/SmartsuitReceiverEditor.cs
+          projectPath: Assets/Rokoko/Smartsuit/Editor/SmartsuitReceiverEditor.cs
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Editor/SmartsuitReceiverEditor.cs.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Editor/SmartsuitReceiverEditor.cs.meta
+          projectPath: Assets/Rokoko/Smartsuit/Editor/SmartsuitReceiverEditor.cs.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Examples.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Examples.meta
+          projectPath: Assets/Rokoko/Smartsuit/Examples.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Examples/SmartsuitExampleActors.unity
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Examples/SmartsuitExampleActors.unity
+          projectPath: Assets/Rokoko/Smartsuit/Examples/SmartsuitExampleActors.unity
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Examples/SmartsuitExampleActors.unity.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Examples/SmartsuitExampleActors.unity.meta
+          projectPath: Assets/Rokoko/Smartsuit/Examples/SmartsuitExampleActors.unity.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Examples/SmartsuitExampleCommands.unity
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Examples/SmartsuitExampleCommands.unity
+          projectPath: Assets/Rokoko/Smartsuit/Examples/SmartsuitExampleCommands.unity
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Examples/SmartsuitExampleCommands.unity.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Examples/SmartsuitExampleCommands.unity.meta
+          projectPath: Assets/Rokoko/Smartsuit/Examples/SmartsuitExampleCommands.unity.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/LICENSE.md
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/LICENSE.md
+          projectPath: Assets/Rokoko/Smartsuit/LICENSE.md
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/LICENSE.md.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/LICENSE.md.meta
+          projectPath: Assets/Rokoko/Smartsuit/LICENSE.md.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Materials.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Materials.meta
+          projectPath: Assets/Rokoko/Smartsuit/Materials.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Materials/rkk_sss_direction_indicator 1.mat
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Materials/rkk_sss_direction_indicator
+            1.mat
+          projectPath: Assets/Rokoko/Smartsuit/Materials/rkk_sss_direction_indicator
+            1.mat
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Materials/rkk_sss_direction_indicator 1.mat.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Materials/rkk_sss_direction_indicator
+            1.mat.meta
+          projectPath: Assets/Rokoko/Smartsuit/Materials/rkk_sss_direction_indicator
+            1.mat.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Meshes.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Meshes.meta
+          projectPath: Assets/Rokoko/Smartsuit/Meshes.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Meshes/Materials.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Meshes/Materials.meta
+          projectPath: Assets/Rokoko/Smartsuit/Meshes/Materials.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Meshes/Materials/BALLGUYMAT.mat
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Meshes/Materials/BALLGUYMAT.mat
+          projectPath: Assets/Rokoko/Smartsuit/Meshes/Materials/BALLGUYMAT.mat
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Meshes/Materials/BALLGUYMAT.mat.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Meshes/Materials/BALLGUYMAT.mat.meta
+          projectPath: Assets/Rokoko/Smartsuit/Meshes/Materials/BALLGUYMAT.mat.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Meshes/Materials/BALLGUYMATBALL.mat
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Meshes/Materials/BALLGUYMATBALL.mat
+          projectPath: Assets/Rokoko/Smartsuit/Meshes/Materials/BALLGUYMATBALL.mat
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Meshes/Materials/BALLGUYMATBALL.mat.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Meshes/Materials/BALLGUYMATBALL.mat.meta
+          projectPath: Assets/Rokoko/Smartsuit/Meshes/Materials/BALLGUYMATBALL.mat.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Meshes/Materials/BALLGUYMATMAG.mat
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Meshes/Materials/BALLGUYMATMAG.mat
+          projectPath: Assets/Rokoko/Smartsuit/Meshes/Materials/BALLGUYMATMAG.mat
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Meshes/Materials/BALLGUYMATMAG.mat.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Meshes/Materials/BALLGUYMATMAG.mat.meta
+          projectPath: Assets/Rokoko/Smartsuit/Meshes/Materials/BALLGUYMATMAG.mat.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: 'Assets/Rokoko/Smartsuit/Meshes/Materials/Material #11.mat'
+          fullPath: '/Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Meshes/Materials/Material
+            #11.mat'
+          projectPath: 'Assets/Rokoko/Smartsuit/Meshes/Materials/Material #11.mat'
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: 'Assets/Rokoko/Smartsuit/Meshes/Materials/Material #11.mat.meta'
+          fullPath: '/Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Meshes/Materials/Material
+            #11.mat.meta'
+          projectPath: 'Assets/Rokoko/Smartsuit/Meshes/Materials/Material #11.mat.meta'
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Meshes/Materials/grid.mat
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Meshes/Materials/grid.mat
+          projectPath: Assets/Rokoko/Smartsuit/Meshes/Materials/grid.mat
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Meshes/Materials/grid.mat.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Meshes/Materials/grid.mat.meta
+          projectPath: Assets/Rokoko/Smartsuit/Meshes/Materials/grid.mat.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Meshes/Materials/groundarrowPlugin.mat
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Meshes/Materials/groundarrowPlugin.mat
+          projectPath: Assets/Rokoko/Smartsuit/Meshes/Materials/groundarrowPlugin.mat
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Meshes/Materials/groundarrowPlugin.mat.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Meshes/Materials/groundarrowPlugin.mat.meta
+          projectPath: Assets/Rokoko/Smartsuit/Meshes/Materials/groundarrowPlugin.mat.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Meshes/Materials/groundmarkerPlugin.mat
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Meshes/Materials/groundmarkerPlugin.mat
+          projectPath: Assets/Rokoko/Smartsuit/Meshes/Materials/groundmarkerPlugin.mat
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Meshes/Materials/groundmarkerPlugin.mat.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Meshes/Materials/groundmarkerPlugin.mat.meta
+          projectPath: Assets/Rokoko/Smartsuit/Meshes/Materials/groundmarkerPlugin.mat.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Meshes/RokokoGuy.FBX
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Meshes/RokokoGuy.FBX
+          projectPath: Assets/Rokoko/Smartsuit/Meshes/RokokoGuy.FBX
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Meshes/RokokoGuy.FBX.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Meshes/RokokoGuy.FBX.meta
+          projectPath: Assets/Rokoko/Smartsuit/Meshes/RokokoGuy.FBX.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Prefabs.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Prefabs.meta
+          projectPath: Assets/Rokoko/Smartsuit/Prefabs.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Prefabs/SmartsuitControls.prefab
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Prefabs/SmartsuitControls.prefab
+          projectPath: Assets/Rokoko/Smartsuit/Prefabs/SmartsuitControls.prefab
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Prefabs/SmartsuitControls.prefab.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Prefabs/SmartsuitControls.prefab.meta
+          projectPath: Assets/Rokoko/Smartsuit/Prefabs/SmartsuitControls.prefab.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Prefabs/SmartsuitSelector.prefab
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Prefabs/SmartsuitSelector.prefab
+          projectPath: Assets/Rokoko/Smartsuit/Prefabs/SmartsuitSelector.prefab
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Prefabs/SmartsuitSelector.prefab.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Prefabs/SmartsuitSelector.prefab.meta
+          projectPath: Assets/Rokoko/Smartsuit/Prefabs/SmartsuitSelector.prefab.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Prefabs/SmartsuitStatus.prefab
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Prefabs/SmartsuitStatus.prefab
+          projectPath: Assets/Rokoko/Smartsuit/Prefabs/SmartsuitStatus.prefab
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Prefabs/SmartsuitStatus.prefab.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Prefabs/SmartsuitStatus.prefab.meta
+          projectPath: Assets/Rokoko/Smartsuit/Prefabs/SmartsuitStatus.prefab.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Scripts.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Scripts.meta
+          projectPath: Assets/Rokoko/Smartsuit/Scripts.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Scripts/Lib.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Scripts/Lib.meta
+          projectPath: Assets/Rokoko/Smartsuit/Scripts/Lib.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Scripts/Lib/SmartsuitLib.dll
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Scripts/Lib/SmartsuitLib.dll
+          projectPath: Assets/Rokoko/Smartsuit/Scripts/Lib/SmartsuitLib.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Scripts/Lib/SmartsuitLib.dll.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Scripts/Lib/SmartsuitLib.dll.meta
+          projectPath: Assets/Rokoko/Smartsuit/Scripts/Lib/SmartsuitLib.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Scripts/SmartsuitControls.cs
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Scripts/SmartsuitControls.cs
+          projectPath: Assets/Rokoko/Smartsuit/Scripts/SmartsuitControls.cs
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Scripts/SmartsuitControls.cs.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Scripts/SmartsuitControls.cs.meta
+          projectPath: Assets/Rokoko/Smartsuit/Scripts/SmartsuitControls.cs.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Scripts/SmartsuitSelector.cs
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Scripts/SmartsuitSelector.cs
+          projectPath: Assets/Rokoko/Smartsuit/Scripts/SmartsuitSelector.cs
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Scripts/SmartsuitSelector.cs.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Scripts/SmartsuitSelector.cs.meta
+          projectPath: Assets/Rokoko/Smartsuit/Scripts/SmartsuitSelector.cs.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Scripts/SmartsuitStatus.cs
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Scripts/SmartsuitStatus.cs
+          projectPath: Assets/Rokoko/Smartsuit/Scripts/SmartsuitStatus.cs
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Scripts/SmartsuitStatus.cs.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Scripts/SmartsuitStatus.cs.meta
+          projectPath: Assets/Rokoko/Smartsuit/Scripts/SmartsuitStatus.cs.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Scripts/SmartsuitSyncWithHMD.cs
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Scripts/SmartsuitSyncWithHMD.cs
+          projectPath: Assets/Rokoko/Smartsuit/Scripts/SmartsuitSyncWithHMD.cs
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Scripts/SmartsuitSyncWithHMD.cs.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Scripts/SmartsuitSyncWithHMD.cs.meta
+          projectPath: Assets/Rokoko/Smartsuit/Scripts/SmartsuitSyncWithHMD.cs.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/SmartsuitActor.prefab
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/SmartsuitActor.prefab
+          projectPath: Assets/Rokoko/Smartsuit/SmartsuitActor.prefab
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/SmartsuitActor.prefab.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/SmartsuitActor.prefab.meta
+          projectPath: Assets/Rokoko/Smartsuit/SmartsuitActor.prefab.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/SmartsuitReceiver.prefab
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/SmartsuitReceiver.prefab
+          projectPath: Assets/Rokoko/Smartsuit/SmartsuitReceiver.prefab
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/SmartsuitReceiver.prefab.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/SmartsuitReceiver.prefab.meta
+          projectPath: Assets/Rokoko/Smartsuit/SmartsuitReceiver.prefab.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Textures.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Textures.meta
+          projectPath: Assets/Rokoko/Smartsuit/Textures.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Textures/gray128.png
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Textures/gray128.png
+          projectPath: Assets/Rokoko/Smartsuit/Textures/gray128.png
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Textures/gray128.png.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Textures/gray128.png.meta
+          projectPath: Assets/Rokoko/Smartsuit/Textures/gray128.png.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Textures/grid.psd
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Textures/grid.psd
+          projectPath: Assets/Rokoko/Smartsuit/Textures/grid.psd
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Textures/grid.psd.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Textures/grid.psd.meta
+          projectPath: Assets/Rokoko/Smartsuit/Textures/grid.psd.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Textures/gridlines.psd
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Textures/gridlines.psd
+          projectPath: Assets/Rokoko/Smartsuit/Textures/gridlines.psd
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Textures/gridlines.psd.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Textures/gridlines.psd.meta
+          projectPath: Assets/Rokoko/Smartsuit/Textures/gridlines.psd.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Textures/rkk_sss_direction_indicator 1.png
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Textures/rkk_sss_direction_indicator
+            1.png
+          projectPath: Assets/Rokoko/Smartsuit/Textures/rkk_sss_direction_indicator
+            1.png
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/Rokoko/Smartsuit/Textures/rkk_sss_direction_indicator 1.png.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Textures/rkk_sss_direction_indicator
+            1.png.meta
+          projectPath: Assets/Rokoko/Smartsuit/Textures/rkk_sss_direction_indicator
+            1.png.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/materials.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/materials.meta
+          projectPath: Assets/materials.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/materials/Glassy.mat
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/materials/Glassy.mat
+          projectPath: Assets/materials/Glassy.mat
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/materials/Glassy.mat.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/materials/Glassy.mat.meta
+          projectPath: Assets/materials/Glassy.mat.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/scripts.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/scripts.meta
+          projectPath: Assets/scripts.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/scripts/03-lightsaber.cs
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/scripts/03-lightsaber.cs
+          projectPath: Assets/scripts/03-lightsaber.cs
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/scripts/03-lightsaber.cs.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/scripts/03-lightsaber.cs.meta
+          projectPath: Assets/scripts/03-lightsaber.cs.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/scripts/fixateCube.cs
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/scripts/fixateCube.cs
+          projectPath: Assets/scripts/fixateCube.cs
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets/scripts/fixateCube.cs.meta
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/scripts/fixateCube.cs.meta
+          projectPath: Assets/scripts/fixateCube.cs.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings/AudioManager.asset
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/ProjectSettings/AudioManager.asset
+          projectPath: ProjectSettings/AudioManager.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings/ClusterInputManager.asset
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/ProjectSettings/ClusterInputManager.asset
+          projectPath: ProjectSettings/ClusterInputManager.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings/DynamicsManager.asset
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/ProjectSettings/DynamicsManager.asset
+          projectPath: ProjectSettings/DynamicsManager.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings/EditorBuildSettings.asset
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/ProjectSettings/EditorBuildSettings.asset
+          projectPath: ProjectSettings/EditorBuildSettings.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings/EditorSettings.asset
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/ProjectSettings/EditorSettings.asset
+          projectPath: ProjectSettings/EditorSettings.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings/GraphicsSettings.asset
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/ProjectSettings/GraphicsSettings.asset
+          projectPath: ProjectSettings/GraphicsSettings.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings/InputManager.asset
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/ProjectSettings/InputManager.asset
+          projectPath: ProjectSettings/InputManager.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings/NavMeshAreas.asset
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/ProjectSettings/NavMeshAreas.asset
+          projectPath: ProjectSettings/NavMeshAreas.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings/NetworkManager.asset
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/ProjectSettings/NetworkManager.asset
+          projectPath: ProjectSettings/NetworkManager.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings/Physics2DSettings.asset
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/ProjectSettings/Physics2DSettings.asset
+          projectPath: ProjectSettings/Physics2DSettings.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings/ProjectSettings.asset
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/ProjectSettings/ProjectSettings.asset
+          projectPath: ProjectSettings/ProjectSettings.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings/ProjectVersion.txt
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/ProjectSettings/ProjectVersion.txt
+          projectPath: ProjectSettings/ProjectVersion.txt
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings/QualitySettings.asset
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/ProjectSettings/QualitySettings.asset
+          projectPath: ProjectSettings/QualitySettings.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings/TagManager.asset
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/ProjectSettings/TagManager.asset
+          projectPath: ProjectSettings/TagManager.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings/TimeManager.asset
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/ProjectSettings/TimeManager.asset
+          projectPath: ProjectSettings/TimeManager.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings/UnityConnectSettings.asset
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/ProjectSettings/UnityConnectSettings.asset
+          projectPath: ProjectSettings/UnityConnectSettings.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: UnityPackageManager/manifest.json
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/UnityPackageManager/manifest.json
+          projectPath: UnityPackageManager/manifest.json
+          originalPath: 
+          status: 4
+          staged: 0
+      - commitID: 8ad15e40fd6152e91198f7c3ac4f82ff8cfdd782
+        mergeA: 
+        mergeB: 
+        authorName: Cumhur Erkut
+        authorEmail: cerkut@users.noreply.github.com
+        commitEmail: noreply@github.com
+        commitName: GitHub
+        summary: Initial commit
+        description: Initial commit
+        timeString: 2018-02-22T09:49:00.0000000+01:00
+        commitTimeString: 2018-02-22T09:49:00.0000000+01:00
+        changes:
+        - path: .gitignore
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/.gitignore
+          projectPath: .gitignore
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: LICENSE
+          fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/LICENSE
+          projectPath: LICENSE
+          originalPath: 
+          status: 4
+          staged: 0
+      statusAhead: 0
+      selectedIndex: 3
+    selectedEntry:
+      commitID: 8ad15e40fd6152e91198f7c3ac4f82ff8cfdd782
+      mergeA: 
+      mergeB: 
+      authorName: Cumhur Erkut
+      authorEmail: cerkut@users.noreply.github.com
+      commitEmail: noreply@github.com
+      commitName: GitHub
+      summary: Initial commit
+      description: Initial commit
+      timeString: 2018-02-22T09:49:00.0000000+01:00
+      commitTimeString: 2018-02-22T09:49:00.0000000+01:00
+      changes:
+      - path: .gitignore
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/.gitignore
+        projectPath: .gitignore
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: LICENSE
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/LICENSE
+        projectPath: LICENSE
+        originalPath: 
+        status: 4
+        staged: 0
+    detailsScroll: {x: 0, y: 0}
+    logEntries:
+    - commitID: 7990a956b08873cbe8eb2c3abad8f73375b22fad
+      mergeA: 
+      mergeB: 
+      authorName: cerkut
+      authorEmail: Cumhur.Erkut@gmail.com
+      commitEmail: Cumhur.Erkut@gmail.com
+      commitName: cerkut
+      summary: We correctedf the port in the class
+      description: We correctedf the port in the class
+      timeString: 2018-02-22T11:59:59.0000000+01:00
+      commitTimeString: 2018-02-22T11:59:59.0000000+01:00
+      changes:
+      - path: Assets/00-SmartsuitActorParticles.unity
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/00-SmartsuitActorParticles.unity
+        projectPath: Assets/00-SmartsuitActorParticles.unity
+        originalPath: 
+        status: 3
+        staged: 0
+    - commitID: c6cc951c7cc8ba179cdc59d596b482649b225254
+      mergeA: 
+      mergeB: 
+      authorName: cerkut
+      authorEmail: Cumhur.Erkut@gmail.com
+      commitEmail: Cumhur.Erkut@gmail.com
+      commitName: cerkut
+      summary: Lightsaber removed temporaly
+      description: Lightsaber removed temporaly
+      timeString: 2018-02-22T10:13:27.0000000+01:00
+      commitTimeString: 2018-02-22T10:13:27.0000000+01:00
+      changes:
+      - path: Assets/03-FBXLightSaber.unity
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/03-FBXLightSaber.unity
+        projectPath: Assets/03-FBXLightSaber.unity
+        originalPath: 
+        status: 5
+        staged: 0
+      - path: Assets/03-FBXLightSaber.unity.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/03-FBXLightSaber.unity.meta
+        projectPath: Assets/03-FBXLightSaber.unity.meta
+        originalPath: 
+        status: 5
+        staged: 0
+      - path: Assets/scripts/03-lightsaber.cs
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/scripts/03-lightsaber.cs
+        projectPath: Assets/scripts/03-lightsaber.cs
+        originalPath: 
+        status: 5
+        staged: 0
+      - path: Assets/scripts/03-lightsaber.cs.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/scripts/03-lightsaber.cs.meta
+        projectPath: Assets/scripts/03-lightsaber.cs.meta
+        originalPath: 
+        status: 5
+        staged: 0
+    - commitID: df8b1cc7a089ae269b7a96d3a95969e48571bc57
+      mergeA: 
+      mergeB: 
+      authorName: cerkut
+      authorEmail: Cumhur.Erkut@gmail.com
+      commitEmail: Cumhur.Erkut@gmail.com
+      commitName: cerkut
+      summary: Repo initialization
+      description: Repo initialization
+      timeString: 2018-02-22T09:54:50.0000000+01:00
+      commitTimeString: 2018-02-22T09:54:50.0000000+01:00
+      changes:
+      - path: Assets/00-SmartsuitActorParticles.unity
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/00-SmartsuitActorParticles.unity
+        projectPath: Assets/00-SmartsuitActorParticles.unity
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/00-SmartsuitActorParticles.unity.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/00-SmartsuitActorParticles.unity.meta
+        projectPath: Assets/00-SmartsuitActorParticles.unity.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/01-SmartsuitActorCube.unity
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/01-SmartsuitActorCube.unity
+        projectPath: Assets/01-SmartsuitActorCube.unity
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/01-SmartsuitActorCube.unity.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/01-SmartsuitActorCube.unity.meta
+        projectPath: Assets/01-SmartsuitActorCube.unity.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/02-FBXImport.unity
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/02-FBXImport.unity
+        projectPath: Assets/02-FBXImport.unity
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/02-FBXImport.unity.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/02-FBXImport.unity.meta
+        projectPath: Assets/02-FBXImport.unity.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/03-FBXLightSaber.unity
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/03-FBXLightSaber.unity
+        projectPath: Assets/03-FBXLightSaber.unity
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/03-FBXLightSaber.unity.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/03-FBXLightSaber.unity.meta
+        projectPath: Assets/03-FBXLightSaber.unity.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/MoCap.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/MoCap.meta
+        projectPath: Assets/MoCap.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/MoCap/New Animator Controller.controller
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/MoCap/New
+          Animator Controller.controller
+        projectPath: Assets/MoCap/New Animator Controller.controller
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/MoCap/New Animator Controller.controller.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/MoCap/New
+          Animator Controller.controller.meta
+        projectPath: Assets/MoCap/New Animator Controller.controller.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/MoCap/fast-movement.fbx
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/MoCap/fast-movement.fbx
+        projectPath: Assets/MoCap/fast-movement.fbx
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/MoCap/fast-movement.fbx.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/MoCap/fast-movement.fbx.meta
+        projectPath: Assets/MoCap/fast-movement.fbx.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins.meta
+        projectPath: Assets/Plugins.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub.meta
+        projectPath: Assets/Plugins/GitHub.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor.meta
+        projectPath: Assets/Plugins/GitHub/Editor.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+        projectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+        projectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/CREDITS.txt
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/CREDITS.txt
+        projectPath: Assets/Plugins/GitHub/Editor/CREDITS.txt
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/CREDITS.txt.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/CREDITS.txt.meta
+        projectPath: Assets/Plugins/GitHub/Editor/CREDITS.txt.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/DotNetHttp35.dll
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/DotNetHttp35.dll
+        projectPath: Assets/Plugins/GitHub/Editor/DotNetHttp35.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/DotNetHttp35.dll.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/DotNetHttp35.dll.meta
+        projectPath: Assets/Plugins/GitHub/Editor/DotNetHttp35.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/EULA.txt
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/EULA.txt
+        projectPath: Assets/Plugins/GitHub/Editor/EULA.txt
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/EULA.txt.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/EULA.txt.meta
+        projectPath: Assets/Plugins/GitHub/Editor/EULA.txt.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+        projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+        projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
+        projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+        projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+        projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+        projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
+        projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+        projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+        projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+        projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+        projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+        projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll
+        projectPath: Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll.meta
+        projectPath: Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+        projectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+        projectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/Mono.Security.dll
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/Mono.Security.dll
+        projectPath: Assets/Plugins/GitHub/Editor/Mono.Security.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/Mono.Security.dll.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/Mono.Security.dll.meta
+        projectPath: Assets/Plugins/GitHub/Editor/Mono.Security.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/Octokit.dll
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/Octokit.dll
+        projectPath: Assets/Plugins/GitHub/Editor/Octokit.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/Octokit.dll.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/Octokit.dll.meta
+        projectPath: Assets/Plugins/GitHub/Editor/Octokit.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/PlatformResources.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/PlatformResources.meta
+        projectPath: Assets/Plugins/GitHub/Editor/PlatformResources.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/PlatformResources/mac.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/PlatformResources/mac.meta
+        projectPath: Assets/Plugins/GitHub/Editor/PlatformResources/mac.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/PlatformResources/mac/git-lfs.zip
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/PlatformResources/mac/git-lfs.zip
+        projectPath: Assets/Plugins/GitHub/Editor/PlatformResources/mac/git-lfs.zip
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/PlatformResources/mac/git-lfs.zip.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/PlatformResources/mac/git-lfs.zip.meta
+        projectPath: Assets/Plugins/GitHub/Editor/PlatformResources/mac/git-lfs.zip.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/PlatformResources/windows.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/PlatformResources/windows.meta
+        projectPath: Assets/Plugins/GitHub/Editor/PlatformResources/windows.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/PlatformResources/windows/git-lfs.zip
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/PlatformResources/windows/git-lfs.zip
+        projectPath: Assets/Plugins/GitHub/Editor/PlatformResources/windows/git-lfs.zip
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/PlatformResources/windows/git-lfs.zip.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/PlatformResources/windows/git-lfs.zip.meta
+        projectPath: Assets/Plugins/GitHub/Editor/PlatformResources/windows/git-lfs.zip.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/PlatformResources/windows/git.zip
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/PlatformResources/windows/git.zip
+        projectPath: Assets/Plugins/GitHub/Editor/PlatformResources/windows/git.zip
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/PlatformResources/windows/git.zip.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/PlatformResources/windows/git.zip.meta
+        projectPath: Assets/Plugins/GitHub/Editor/PlatformResources/windows/git.zip.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/Rackspace.Threading.dll
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/Rackspace.Threading.dll
+        projectPath: Assets/Plugins/GitHub/Editor/Rackspace.Threading.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/Rackspace.Threading.dll.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/Rackspace.Threading.dll.meta
+        projectPath: Assets/Plugins/GitHub/Editor/Rackspace.Threading.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+        projectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+        projectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/System.Threading.dll
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/System.Threading.dll
+        projectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+        projectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/libsfw.bundle
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/libsfw.bundle
+        projectPath: Assets/Plugins/GitHub/Editor/libsfw.bundle
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+        projectPath: Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/libsfw.so
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/libsfw.so
+        projectPath: Assets/Plugins/GitHub/Editor/libsfw.so
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/libsfw.so.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/libsfw.so.meta
+        projectPath: Assets/Plugins/GitHub/Editor/libsfw.so.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/sfw.net.dll
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/sfw.net.dll
+        projectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+        projectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/x64.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/x64.meta
+        projectPath: Assets/Plugins/GitHub/Editor/x64.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+        projectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+        projectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+        projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+        projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/x86.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/x86.meta
+        projectPath: Assets/Plugins/GitHub/Editor/x86.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+        projectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+        projectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+        projectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+        projectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko.meta
+        projectPath: Assets/Rokoko.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit.meta
+        projectPath: Assets/Rokoko/Smartsuit.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Editor.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Editor.meta
+        projectPath: Assets/Rokoko/Smartsuit/Editor.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Editor/CommandSenderEditor.cs
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Editor/CommandSenderEditor.cs
+        projectPath: Assets/Rokoko/Smartsuit/Editor/CommandSenderEditor.cs
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Editor/CommandSenderEditor.cs.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Editor/CommandSenderEditor.cs.meta
+        projectPath: Assets/Rokoko/Smartsuit/Editor/CommandSenderEditor.cs.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Editor/ScaleAvatarEditor.cs
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Editor/ScaleAvatarEditor.cs
+        projectPath: Assets/Rokoko/Smartsuit/Editor/ScaleAvatarEditor.cs
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Editor/ScaleAvatarEditor.cs.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Editor/ScaleAvatarEditor.cs.meta
+        projectPath: Assets/Rokoko/Smartsuit/Editor/ScaleAvatarEditor.cs.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Editor/SmartsuitAbstractEditor.cs
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Editor/SmartsuitAbstractEditor.cs
+        projectPath: Assets/Rokoko/Smartsuit/Editor/SmartsuitAbstractEditor.cs
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Editor/SmartsuitAbstractEditor.cs.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Editor/SmartsuitAbstractEditor.cs.meta
+        projectPath: Assets/Rokoko/Smartsuit/Editor/SmartsuitAbstractEditor.cs.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Editor/SmartsuitActorEditor.cs
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Editor/SmartsuitActorEditor.cs
+        projectPath: Assets/Rokoko/Smartsuit/Editor/SmartsuitActorEditor.cs
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Editor/SmartsuitActorEditor.cs.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Editor/SmartsuitActorEditor.cs.meta
+        projectPath: Assets/Rokoko/Smartsuit/Editor/SmartsuitActorEditor.cs.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Editor/SmartsuitReceiverEditor.cs
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Editor/SmartsuitReceiverEditor.cs
+        projectPath: Assets/Rokoko/Smartsuit/Editor/SmartsuitReceiverEditor.cs
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Editor/SmartsuitReceiverEditor.cs.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Editor/SmartsuitReceiverEditor.cs.meta
+        projectPath: Assets/Rokoko/Smartsuit/Editor/SmartsuitReceiverEditor.cs.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Examples.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Examples.meta
+        projectPath: Assets/Rokoko/Smartsuit/Examples.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Examples/SmartsuitExampleActors.unity
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Examples/SmartsuitExampleActors.unity
+        projectPath: Assets/Rokoko/Smartsuit/Examples/SmartsuitExampleActors.unity
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Examples/SmartsuitExampleActors.unity.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Examples/SmartsuitExampleActors.unity.meta
+        projectPath: Assets/Rokoko/Smartsuit/Examples/SmartsuitExampleActors.unity.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Examples/SmartsuitExampleCommands.unity
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Examples/SmartsuitExampleCommands.unity
+        projectPath: Assets/Rokoko/Smartsuit/Examples/SmartsuitExampleCommands.unity
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Examples/SmartsuitExampleCommands.unity.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Examples/SmartsuitExampleCommands.unity.meta
+        projectPath: Assets/Rokoko/Smartsuit/Examples/SmartsuitExampleCommands.unity.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/LICENSE.md
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/LICENSE.md
+        projectPath: Assets/Rokoko/Smartsuit/LICENSE.md
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/LICENSE.md.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/LICENSE.md.meta
+        projectPath: Assets/Rokoko/Smartsuit/LICENSE.md.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Materials.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Materials.meta
+        projectPath: Assets/Rokoko/Smartsuit/Materials.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Materials/rkk_sss_direction_indicator 1.mat
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Materials/rkk_sss_direction_indicator
+          1.mat
+        projectPath: Assets/Rokoko/Smartsuit/Materials/rkk_sss_direction_indicator
+          1.mat
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Materials/rkk_sss_direction_indicator 1.mat.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Materials/rkk_sss_direction_indicator
+          1.mat.meta
+        projectPath: Assets/Rokoko/Smartsuit/Materials/rkk_sss_direction_indicator
+          1.mat.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Meshes.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Meshes.meta
+        projectPath: Assets/Rokoko/Smartsuit/Meshes.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Meshes/Materials.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Meshes/Materials.meta
+        projectPath: Assets/Rokoko/Smartsuit/Meshes/Materials.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Meshes/Materials/BALLGUYMAT.mat
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Meshes/Materials/BALLGUYMAT.mat
+        projectPath: Assets/Rokoko/Smartsuit/Meshes/Materials/BALLGUYMAT.mat
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Meshes/Materials/BALLGUYMAT.mat.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Meshes/Materials/BALLGUYMAT.mat.meta
+        projectPath: Assets/Rokoko/Smartsuit/Meshes/Materials/BALLGUYMAT.mat.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Meshes/Materials/BALLGUYMATBALL.mat
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Meshes/Materials/BALLGUYMATBALL.mat
+        projectPath: Assets/Rokoko/Smartsuit/Meshes/Materials/BALLGUYMATBALL.mat
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Meshes/Materials/BALLGUYMATBALL.mat.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Meshes/Materials/BALLGUYMATBALL.mat.meta
+        projectPath: Assets/Rokoko/Smartsuit/Meshes/Materials/BALLGUYMATBALL.mat.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Meshes/Materials/BALLGUYMATMAG.mat
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Meshes/Materials/BALLGUYMATMAG.mat
+        projectPath: Assets/Rokoko/Smartsuit/Meshes/Materials/BALLGUYMATMAG.mat
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Meshes/Materials/BALLGUYMATMAG.mat.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Meshes/Materials/BALLGUYMATMAG.mat.meta
+        projectPath: Assets/Rokoko/Smartsuit/Meshes/Materials/BALLGUYMATMAG.mat.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: 'Assets/Rokoko/Smartsuit/Meshes/Materials/Material #11.mat'
+        fullPath: '/Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Meshes/Materials/Material
+          #11.mat'
+        projectPath: 'Assets/Rokoko/Smartsuit/Meshes/Materials/Material #11.mat'
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: 'Assets/Rokoko/Smartsuit/Meshes/Materials/Material #11.mat.meta'
+        fullPath: '/Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Meshes/Materials/Material
+          #11.mat.meta'
+        projectPath: 'Assets/Rokoko/Smartsuit/Meshes/Materials/Material #11.mat.meta'
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Meshes/Materials/grid.mat
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Meshes/Materials/grid.mat
+        projectPath: Assets/Rokoko/Smartsuit/Meshes/Materials/grid.mat
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Meshes/Materials/grid.mat.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Meshes/Materials/grid.mat.meta
+        projectPath: Assets/Rokoko/Smartsuit/Meshes/Materials/grid.mat.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Meshes/Materials/groundarrowPlugin.mat
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Meshes/Materials/groundarrowPlugin.mat
+        projectPath: Assets/Rokoko/Smartsuit/Meshes/Materials/groundarrowPlugin.mat
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Meshes/Materials/groundarrowPlugin.mat.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Meshes/Materials/groundarrowPlugin.mat.meta
+        projectPath: Assets/Rokoko/Smartsuit/Meshes/Materials/groundarrowPlugin.mat.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Meshes/Materials/groundmarkerPlugin.mat
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Meshes/Materials/groundmarkerPlugin.mat
+        projectPath: Assets/Rokoko/Smartsuit/Meshes/Materials/groundmarkerPlugin.mat
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Meshes/Materials/groundmarkerPlugin.mat.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Meshes/Materials/groundmarkerPlugin.mat.meta
+        projectPath: Assets/Rokoko/Smartsuit/Meshes/Materials/groundmarkerPlugin.mat.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Meshes/RokokoGuy.FBX
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Meshes/RokokoGuy.FBX
+        projectPath: Assets/Rokoko/Smartsuit/Meshes/RokokoGuy.FBX
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Meshes/RokokoGuy.FBX.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Meshes/RokokoGuy.FBX.meta
+        projectPath: Assets/Rokoko/Smartsuit/Meshes/RokokoGuy.FBX.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Prefabs.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Prefabs.meta
+        projectPath: Assets/Rokoko/Smartsuit/Prefabs.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Prefabs/SmartsuitControls.prefab
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Prefabs/SmartsuitControls.prefab
+        projectPath: Assets/Rokoko/Smartsuit/Prefabs/SmartsuitControls.prefab
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Prefabs/SmartsuitControls.prefab.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Prefabs/SmartsuitControls.prefab.meta
+        projectPath: Assets/Rokoko/Smartsuit/Prefabs/SmartsuitControls.prefab.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Prefabs/SmartsuitSelector.prefab
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Prefabs/SmartsuitSelector.prefab
+        projectPath: Assets/Rokoko/Smartsuit/Prefabs/SmartsuitSelector.prefab
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Prefabs/SmartsuitSelector.prefab.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Prefabs/SmartsuitSelector.prefab.meta
+        projectPath: Assets/Rokoko/Smartsuit/Prefabs/SmartsuitSelector.prefab.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Prefabs/SmartsuitStatus.prefab
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Prefabs/SmartsuitStatus.prefab
+        projectPath: Assets/Rokoko/Smartsuit/Prefabs/SmartsuitStatus.prefab
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Prefabs/SmartsuitStatus.prefab.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Prefabs/SmartsuitStatus.prefab.meta
+        projectPath: Assets/Rokoko/Smartsuit/Prefabs/SmartsuitStatus.prefab.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Scripts.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Scripts.meta
+        projectPath: Assets/Rokoko/Smartsuit/Scripts.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Scripts/Lib.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Scripts/Lib.meta
+        projectPath: Assets/Rokoko/Smartsuit/Scripts/Lib.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Scripts/Lib/SmartsuitLib.dll
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Scripts/Lib/SmartsuitLib.dll
+        projectPath: Assets/Rokoko/Smartsuit/Scripts/Lib/SmartsuitLib.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Scripts/Lib/SmartsuitLib.dll.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Scripts/Lib/SmartsuitLib.dll.meta
+        projectPath: Assets/Rokoko/Smartsuit/Scripts/Lib/SmartsuitLib.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Scripts/SmartsuitControls.cs
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Scripts/SmartsuitControls.cs
+        projectPath: Assets/Rokoko/Smartsuit/Scripts/SmartsuitControls.cs
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Scripts/SmartsuitControls.cs.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Scripts/SmartsuitControls.cs.meta
+        projectPath: Assets/Rokoko/Smartsuit/Scripts/SmartsuitControls.cs.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Scripts/SmartsuitSelector.cs
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Scripts/SmartsuitSelector.cs
+        projectPath: Assets/Rokoko/Smartsuit/Scripts/SmartsuitSelector.cs
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Scripts/SmartsuitSelector.cs.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Scripts/SmartsuitSelector.cs.meta
+        projectPath: Assets/Rokoko/Smartsuit/Scripts/SmartsuitSelector.cs.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Scripts/SmartsuitStatus.cs
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Scripts/SmartsuitStatus.cs
+        projectPath: Assets/Rokoko/Smartsuit/Scripts/SmartsuitStatus.cs
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Scripts/SmartsuitStatus.cs.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Scripts/SmartsuitStatus.cs.meta
+        projectPath: Assets/Rokoko/Smartsuit/Scripts/SmartsuitStatus.cs.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Scripts/SmartsuitSyncWithHMD.cs
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Scripts/SmartsuitSyncWithHMD.cs
+        projectPath: Assets/Rokoko/Smartsuit/Scripts/SmartsuitSyncWithHMD.cs
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Scripts/SmartsuitSyncWithHMD.cs.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Scripts/SmartsuitSyncWithHMD.cs.meta
+        projectPath: Assets/Rokoko/Smartsuit/Scripts/SmartsuitSyncWithHMD.cs.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/SmartsuitActor.prefab
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/SmartsuitActor.prefab
+        projectPath: Assets/Rokoko/Smartsuit/SmartsuitActor.prefab
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/SmartsuitActor.prefab.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/SmartsuitActor.prefab.meta
+        projectPath: Assets/Rokoko/Smartsuit/SmartsuitActor.prefab.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/SmartsuitReceiver.prefab
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/SmartsuitReceiver.prefab
+        projectPath: Assets/Rokoko/Smartsuit/SmartsuitReceiver.prefab
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/SmartsuitReceiver.prefab.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/SmartsuitReceiver.prefab.meta
+        projectPath: Assets/Rokoko/Smartsuit/SmartsuitReceiver.prefab.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Textures.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Textures.meta
+        projectPath: Assets/Rokoko/Smartsuit/Textures.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Textures/gray128.png
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Textures/gray128.png
+        projectPath: Assets/Rokoko/Smartsuit/Textures/gray128.png
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Textures/gray128.png.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Textures/gray128.png.meta
+        projectPath: Assets/Rokoko/Smartsuit/Textures/gray128.png.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Textures/grid.psd
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Textures/grid.psd
+        projectPath: Assets/Rokoko/Smartsuit/Textures/grid.psd
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Textures/grid.psd.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Textures/grid.psd.meta
+        projectPath: Assets/Rokoko/Smartsuit/Textures/grid.psd.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Textures/gridlines.psd
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Textures/gridlines.psd
+        projectPath: Assets/Rokoko/Smartsuit/Textures/gridlines.psd
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Textures/gridlines.psd.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Textures/gridlines.psd.meta
+        projectPath: Assets/Rokoko/Smartsuit/Textures/gridlines.psd.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Textures/rkk_sss_direction_indicator 1.png
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Textures/rkk_sss_direction_indicator
+          1.png
+        projectPath: Assets/Rokoko/Smartsuit/Textures/rkk_sss_direction_indicator
+          1.png
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/Rokoko/Smartsuit/Textures/rkk_sss_direction_indicator 1.png.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/Rokoko/Smartsuit/Textures/rkk_sss_direction_indicator
+          1.png.meta
+        projectPath: Assets/Rokoko/Smartsuit/Textures/rkk_sss_direction_indicator
+          1.png.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/materials.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/materials.meta
+        projectPath: Assets/materials.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/materials/Glassy.mat
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/materials/Glassy.mat
+        projectPath: Assets/materials/Glassy.mat
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/materials/Glassy.mat.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/materials/Glassy.mat.meta
+        projectPath: Assets/materials/Glassy.mat.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/scripts.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/scripts.meta
+        projectPath: Assets/scripts.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/scripts/03-lightsaber.cs
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/scripts/03-lightsaber.cs
+        projectPath: Assets/scripts/03-lightsaber.cs
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/scripts/03-lightsaber.cs.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/scripts/03-lightsaber.cs.meta
+        projectPath: Assets/scripts/03-lightsaber.cs.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/scripts/fixateCube.cs
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/scripts/fixateCube.cs
+        projectPath: Assets/scripts/fixateCube.cs
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets/scripts/fixateCube.cs.meta
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/Assets/scripts/fixateCube.cs.meta
+        projectPath: Assets/scripts/fixateCube.cs.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings/AudioManager.asset
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/ProjectSettings/AudioManager.asset
+        projectPath: ProjectSettings/AudioManager.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings/ClusterInputManager.asset
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/ProjectSettings/ClusterInputManager.asset
+        projectPath: ProjectSettings/ClusterInputManager.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings/DynamicsManager.asset
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/ProjectSettings/DynamicsManager.asset
+        projectPath: ProjectSettings/DynamicsManager.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings/EditorBuildSettings.asset
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/ProjectSettings/EditorBuildSettings.asset
+        projectPath: ProjectSettings/EditorBuildSettings.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings/EditorSettings.asset
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/ProjectSettings/EditorSettings.asset
+        projectPath: ProjectSettings/EditorSettings.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings/GraphicsSettings.asset
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/ProjectSettings/GraphicsSettings.asset
+        projectPath: ProjectSettings/GraphicsSettings.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings/InputManager.asset
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/ProjectSettings/InputManager.asset
+        projectPath: ProjectSettings/InputManager.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings/NavMeshAreas.asset
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/ProjectSettings/NavMeshAreas.asset
+        projectPath: ProjectSettings/NavMeshAreas.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings/NetworkManager.asset
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/ProjectSettings/NetworkManager.asset
+        projectPath: ProjectSettings/NetworkManager.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings/Physics2DSettings.asset
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/ProjectSettings/Physics2DSettings.asset
+        projectPath: ProjectSettings/Physics2DSettings.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings/ProjectSettings.asset
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/ProjectSettings/ProjectSettings.asset
+        projectPath: ProjectSettings/ProjectSettings.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings/ProjectVersion.txt
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/ProjectSettings/ProjectVersion.txt
+        projectPath: ProjectSettings/ProjectVersion.txt
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings/QualitySettings.asset
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/ProjectSettings/QualitySettings.asset
+        projectPath: ProjectSettings/QualitySettings.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings/TagManager.asset
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/ProjectSettings/TagManager.asset
+        projectPath: ProjectSettings/TagManager.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings/TimeManager.asset
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/ProjectSettings/TimeManager.asset
+        projectPath: ProjectSettings/TimeManager.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings/UnityConnectSettings.asset
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/ProjectSettings/UnityConnectSettings.asset
+        projectPath: ProjectSettings/UnityConnectSettings.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: UnityPackageManager/manifest.json
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/UnityPackageManager/manifest.json
+        projectPath: UnityPackageManager/manifest.json
+        originalPath: 
+        status: 4
+        staged: 0
+    - commitID: 8ad15e40fd6152e91198f7c3ac4f82ff8cfdd782
+      mergeA: 
+      mergeB: 
+      authorName: Cumhur Erkut
+      authorEmail: cerkut@users.noreply.github.com
+      commitEmail: noreply@github.com
+      commitName: GitHub
+      summary: Initial commit
+      description: Initial commit
+      timeString: 2018-02-22T09:49:00.0000000+01:00
+      commitTimeString: 2018-02-22T09:49:00.0000000+01:00
+      changes:
+      - path: .gitignore
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/.gitignore
+        projectPath: .gitignore
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: LICENSE
+        fullPath: /Users/cerkut/Developer/SMC-AAU-CPH/EI-SmartSuit101/LICENSE
+        projectPath: LICENSE
+        originalPath: 
+        status: 4
+        staged: 0
+    statusAhead: 0
+    statusBehind: 0
+    treeChanges:
+      assets:
+        keys: []
+        values: []
+      folders:
+        keys: []
+        values: []
+      checkedFileNodes:
+        keys: []
+        values: []
+      title: 
+      pathSeparator: /
+      displayRootNode: 0
+      isSelectable: 0
+      isCheckable: 0
+      isUsingGlobalSelection: 0
+      nodes:
+      - path: 
+        label: 
+        level: -1
+        isFolder: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+        projectPath: 
+        gitFileStatus: 0
+        isLocked: 0
+      - path: .gitignore
+        label: .gitignore
+        level: 0
+        isFolder: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+        projectPath: .gitignore
+        gitFileStatus: 4
+        isLocked: 0
+      - path: LICENSE
+        label: LICENSE
+        level: 0
+        isFolder: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+        projectPath: LICENSE
+        gitFileStatus: 4
+        isLocked: 0
+      selectedNode:
+        path: 
+        label: 
+        level: 0
+        isFolder: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+        projectPath: 
+        gitFileStatus: 0
+        isLocked: 0
+    lastCurrentRemoteChangedEvent:
+      updatedTimeString: 2018-02-22T09:53:04.9681620+01:00
+    lastLogChangedEvent:
+      updatedTimeString: 2018-02-26T18:04:06.1917950+01:00
+    lastTrackingStatusChangedEvent:
+      updatedTimeString: 2018-02-22T12:00:35.3494710+01:00
+  settingsView:
+    gitPathView:
+      gitExec: /usr/local/bin/git
+      gitExecParent: /usr/local/bin
+      gitExecExtension: 
+      newGitExec: /usr/local/bin/git
+      isValueChanged: 0
+      isValueChangedAndFileExists: 0
+      gitFileErrorMessage: 
+      gitVersionErrorMessage: 
+    hasRemote: 1
+    lastCurrentRemoteChangedEvent:
+      updatedTimeString: 2018-02-22T09:53:04.9681620+01:00
+    lastLocksChangedEvent:
+      updatedTimeString: 
+    lockedFiles: []
+    lockedFileSelection: -1
+    lockScrollPos: {x: 0, y: 0}
+    metricsEnabled: 1
+    newRepositoryRemoteUrl: https://github.com/SMC-AAU-CPH/EI-SmartSuit101.git
+    repositoryRemoteName: origin
+    repositoryRemoteUrl: https://github.com/SMC-AAU-CPH/EI-SmartSuit101.git
+    scroll: {x: 0, y: 0}
+    userSettingsView:
+      gitName: cerkut
+      gitEmail: Cumhur.Erkut@gmail.com
+      newGitName: cerkut
+      newGitEmail: Cumhur.Erkut@gmail.com
+      needsSaving: 0
+      lastCheckUserChangedEvent:
+        updatedTimeString: 2018-02-07T20:13:59.3765720+01:00
+  repoRemote: master
+  repoBranch: master
+  repoUrl: https://github.com/SMC-AAU-CPH/EI-SmartSuit101.git
+  repoBranchContent:
+    m_Text: master
+    m_Image: {fileID: 0}
+    m_Tooltip: Active branch
+  repoUrlContent:
+    m_Text: https://github.com/SMC-AAU-CPH/EI-SmartSuit101.git
+    m_Image: {fileID: 0}
+    m_Tooltip: Url of the master remote
+  lastCurrentBranchAndRemoteChangedEvent:
+    updatedTimeString: 2018-02-22T09:53:04.9681620+01:00

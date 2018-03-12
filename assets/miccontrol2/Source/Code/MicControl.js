@@ -76,20 +76,20 @@ function Start () {
 		 		}
 		 		
    	// Request permission to use both webcam and microphone.
- 	if(Application.isWebPlayer){
-		yield Application.RequestUserAuthorization (UserAuthorization.Microphone);
-		if (Application.HasUserAuthorization(UserAuthorization.Microphone)){
-			InitMic();
-				Initialised=true;
-					}
-		else{
-			return;
-		}
-  }
-  else{
+// 	if(Application.isWebPlayer){
+//		yield Application.RequestUserAuthorization (UserAuthorization.Microphone);
+//		if (Application.HasUserAuthorization(UserAuthorization.Microphone)){
+//			InitMic();
+//				Initialised=true;
+//					}
+//		else{
+//			return;
+//		}
+//  }
+//  else{
   InitMic();
   Initialised=true;
-  }
+//  }
   
   
 
