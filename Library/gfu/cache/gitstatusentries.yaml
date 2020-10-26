@@ -11,121 +11,1105 @@ MonoBehaviour:
   m_Script: {fileID: 1038538317, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-03-12T18:11:24.8021650+01:00
-  lastVerifiedAtString: 2018-03-12T18:11:25.6900640+01:00
-  initializedAtString: 2018-03-12T18:11:24.7856240+01:00
+  lastUpdatedAtString: 2020-10-26T10:17:05.3437260+01:00
+  lastVerifiedAtString: 2020-10-26T10:17:05.3536610+01:00
+  initializedAtString: 2020-10-26T10:17:05.3315580+01:00
   entries:
   - path: Library/CurrentLayout.dwlt
-    fullPath: /Users/cerkut/Developer/cerkut/BreathingLabs---BreathDroid/Library/CurrentLayout.dwlt
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/CurrentLayout.dwlt
     projectPath: Library/CurrentLayout.dwlt
     originalPath: 
     status: 3
     staged: 0
+  - path: Library/CurrentMaximizeLayout.dwlt
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/CurrentMaximizeLayout.dwlt
+    projectPath: Library/CurrentMaximizeLayout.dwlt
+    originalPath: 
+    status: 3
+    staged: 0
   - path: Library/EditorInstance.json
-    fullPath: /Users/cerkut/Developer/cerkut/BreathingLabs---BreathDroid/Library/EditorInstance.json
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/EditorInstance.json
     projectPath: Library/EditorInstance.json
     originalPath: 
     status: 3
     staged: 0
+  - path: Library/ScriptAssemblies/Assembly-UnityScript-Editor.dll
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ScriptAssemblies/Assembly-UnityScript-Editor.dll
+    projectPath: Library/ScriptAssemblies/Assembly-UnityScript-Editor.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/ScriptAssemblies/Assembly-UnityScript-Editor.dll.mdb
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ScriptAssemblies/Assembly-UnityScript-Editor.dll.mdb
+    projectPath: Library/ScriptAssemblies/Assembly-UnityScript-Editor.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/ScriptAssemblies/Assembly-UnityScript.dll
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ScriptAssemblies/Assembly-UnityScript.dll
+    projectPath: Library/ScriptAssemblies/Assembly-UnityScript.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/ScriptAssemblies/Assembly-UnityScript.dll.mdb
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ScriptAssemblies/Assembly-UnityScript.dll.mdb
+    projectPath: Library/ScriptAssemblies/Assembly-UnityScript.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ScriptAssemblies/BuiltinAssemblies.stamp
+    projectPath: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/ScriptMapper
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ScriptMapper
+    projectPath: Library/ScriptMapper
+    originalPath: 
+    status: 3
+    staged: 0
   - path: Library/assetDatabase3
-    fullPath: /Users/cerkut/Developer/cerkut/BreathingLabs---BreathDroid/Library/assetDatabase3
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/assetDatabase3
     projectPath: Library/assetDatabase3
     originalPath: 
     status: 3
     staged: 0
-  - path: Library/expandedItems
-    fullPath: /Users/cerkut/Developer/cerkut/BreathingLabs---BreathDroid/Library/expandedItems
-    projectPath: Library/expandedItems
-    originalPath: 
-    status: 3
-    staged: 0
   - path: Library/gfu/cache/branches.yaml
-    fullPath: /Users/cerkut/Developer/cerkut/BreathingLabs---BreathDroid/Library/gfu/cache/branches.yaml
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/gfu/cache/branches.yaml
     projectPath: Library/gfu/cache/branches.yaml
     originalPath: 
     status: 3
     staged: 0
   - path: Library/gfu/cache/gitlocks.yaml
-    fullPath: /Users/cerkut/Developer/cerkut/BreathingLabs---BreathDroid/Library/gfu/cache/gitlocks.yaml
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/gfu/cache/gitlocks.yaml
     projectPath: Library/gfu/cache/gitlocks.yaml
     originalPath: 
     status: 3
     staged: 0
   - path: Library/gfu/cache/gitlog.yaml
-    fullPath: /Users/cerkut/Developer/cerkut/BreathingLabs---BreathDroid/Library/gfu/cache/gitlog.yaml
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/gfu/cache/gitlog.yaml
     projectPath: Library/gfu/cache/gitlog.yaml
     originalPath: 
     status: 3
     staged: 0
   - path: Library/gfu/cache/gitstatusentries.yaml
-    fullPath: /Users/cerkut/Developer/cerkut/BreathingLabs---BreathDroid/Library/gfu/cache/gitstatusentries.yaml
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/gfu/cache/gitstatusentries.yaml
     projectPath: Library/gfu/cache/gitstatusentries.yaml
     originalPath: 
     status: 3
     staged: 0
   - path: Library/gfu/cache/gittrackingstatus.yaml
-    fullPath: /Users/cerkut/Developer/cerkut/BreathingLabs---BreathDroid/Library/gfu/cache/gittrackingstatus.yaml
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/gfu/cache/gittrackingstatus.yaml
     projectPath: Library/gfu/cache/gittrackingstatus.yaml
     originalPath: 
     status: 3
     staged: 0
   - path: Library/gfu/cache/gituser.yaml
-    fullPath: /Users/cerkut/Developer/cerkut/BreathingLabs---BreathDroid/Library/gfu/cache/gituser.yaml
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/gfu/cache/gituser.yaml
     projectPath: Library/gfu/cache/gituser.yaml
     originalPath: 
     status: 3
     staged: 0
   - path: Library/metadata/00/00000000000000001000000000000000
-    fullPath: /Users/cerkut/Developer/cerkut/BreathingLabs---BreathDroid/Library/metadata/00/00000000000000001000000000000000
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/00/00000000000000001000000000000000
     projectPath: Library/metadata/00/00000000000000001000000000000000
     originalPath: 
     status: 3
     staged: 0
+  - path: Library/metadata/00/00000000000000002000000000000000
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/00/00000000000000002000000000000000
+    projectPath: Library/metadata/00/00000000000000002000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/00/00000000000000003000000000000000
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/00/00000000000000003000000000000000
+    projectPath: Library/metadata/00/00000000000000003000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/00/00000000000000004000000000000000
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/00/00000000000000004000000000000000
+    projectPath: Library/metadata/00/00000000000000004000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/00/00000000000000004100000000000000
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/00/00000000000000004100000000000000
+    projectPath: Library/metadata/00/00000000000000004100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/00/00000000000000005000000000000000
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/00/00000000000000005000000000000000
+    projectPath: Library/metadata/00/00000000000000005000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/00/00000000000000005100000000000000
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/00/00000000000000005100000000000000
+    projectPath: Library/metadata/00/00000000000000005100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/00/00000000000000006000000000000000
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/00/00000000000000006000000000000000
+    projectPath: Library/metadata/00/00000000000000006000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/00/00000000000000006100000000000000
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/00/00000000000000006100000000000000
+    projectPath: Library/metadata/00/00000000000000006100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/00/00000000000000007000000000000000
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/00/00000000000000007000000000000000
+    projectPath: Library/metadata/00/00000000000000007000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/00/00000000000000007100000000000000
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/00/00000000000000007100000000000000
+    projectPath: Library/metadata/00/00000000000000007100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/00/00000000000000008000000000000000
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/00/00000000000000008000000000000000
+    projectPath: Library/metadata/00/00000000000000008000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/00/00000000000000009000000000000000
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/00/00000000000000009000000000000000
+    projectPath: Library/metadata/00/00000000000000009000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/00/0000000000000000a000000000000000
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/00/0000000000000000a000000000000000
+    projectPath: Library/metadata/00/0000000000000000a000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/00/0000000000000000a100000000000000
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/00/0000000000000000a100000000000000
+    projectPath: Library/metadata/00/0000000000000000a100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/00/0000000000000000b000000000000000
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/00/0000000000000000b000000000000000
+    projectPath: Library/metadata/00/0000000000000000b000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/00/0000000000000000c000000000000000
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/00/0000000000000000c000000000000000
+    projectPath: Library/metadata/00/0000000000000000c000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/00/00f967cf9cd3bac47a870fc1991136c3
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/00/00f967cf9cd3bac47a870fc1991136c3
+    projectPath: Library/metadata/00/00f967cf9cd3bac47a870fc1991136c3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/0d/0d3bb855445e36e479c85976fc88383a
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/0d/0d3bb855445e36e479c85976fc88383a
+    projectPath: Library/metadata/0d/0d3bb855445e36e479c85976fc88383a
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/10/10bf81265ad87424d946598c575f45a0
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/10/10bf81265ad87424d946598c575f45a0
+    projectPath: Library/metadata/10/10bf81265ad87424d946598c575f45a0
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/10/10bf81265ad87424d946598c575f45a0.info
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/10/10bf81265ad87424d946598c575f45a0.info
+    projectPath: Library/metadata/10/10bf81265ad87424d946598c575f45a0.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/12/12fd8a0055b84bb59e84c9835a37e333
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/12/12fd8a0055b84bb59e84c9835a37e333
+    projectPath: Library/metadata/12/12fd8a0055b84bb59e84c9835a37e333
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/13/13a6ff7797048474b97d85267725cd9a
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/13/13a6ff7797048474b97d85267725cd9a
+    projectPath: Library/metadata/13/13a6ff7797048474b97d85267725cd9a
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/1b/1b32bcce201b4494ea8848326290c5d5
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/1b/1b32bcce201b4494ea8848326290c5d5
+    projectPath: Library/metadata/1b/1b32bcce201b4494ea8848326290c5d5
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/1b/1b32bcce201b4494ea8848326290c5d5.info
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/1b/1b32bcce201b4494ea8848326290c5d5.info
+    projectPath: Library/metadata/1b/1b32bcce201b4494ea8848326290c5d5.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/1c/1c6d1fbb51834b64847b1b73a75bfc77
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/1c/1c6d1fbb51834b64847b1b73a75bfc77
+    projectPath: Library/metadata/1c/1c6d1fbb51834b64847b1b73a75bfc77
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/21/21eff446d50eaf44a85985cd4c0b6fa1
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/21/21eff446d50eaf44a85985cd4c0b6fa1
+    projectPath: Library/metadata/21/21eff446d50eaf44a85985cd4c0b6fa1
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/26/2682a692a2be7e14e901a738c7806da0
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/26/2682a692a2be7e14e901a738c7806da0
+    projectPath: Library/metadata/26/2682a692a2be7e14e901a738c7806da0
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/2b/2b5d9fdd25f94c044823c1a5b86d86e4
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/2b/2b5d9fdd25f94c044823c1a5b86d86e4
+    projectPath: Library/metadata/2b/2b5d9fdd25f94c044823c1a5b86d86e4
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/2d/2d4d46c70fdd242668a56e99799e8540
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/2d/2d4d46c70fdd242668a56e99799e8540
+    projectPath: Library/metadata/2d/2d4d46c70fdd242668a56e99799e8540
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/32/32188fd89022c154c81befa2f0e00be0
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/32/32188fd89022c154c81befa2f0e00be0
+    projectPath: Library/metadata/32/32188fd89022c154c81befa2f0e00be0
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/32/328cc881519068e4eb7db4bb907ad2d9
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/32/328cc881519068e4eb7db4bb907ad2d9
+    projectPath: Library/metadata/32/328cc881519068e4eb7db4bb907ad2d9
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/35/35cbafd0580df8f4fabe6e44b9f595d4
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/35/35cbafd0580df8f4fabe6e44b9f595d4
+    projectPath: Library/metadata/35/35cbafd0580df8f4fabe6e44b9f595d4
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/38/38c8faf1788024c02930a0c68a6e0edc
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/38/38c8faf1788024c02930a0c68a6e0edc
+    projectPath: Library/metadata/38/38c8faf1788024c02930a0c68a6e0edc
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/3a/3a84de5cd0624681b6b6dcd8921d912a
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/3a/3a84de5cd0624681b6b6dcd8921d912a
+    projectPath: Library/metadata/3a/3a84de5cd0624681b6b6dcd8921d912a
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/3a/3ae0eecac233ae3458d55270625f5d09
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/3a/3ae0eecac233ae3458d55270625f5d09
+    projectPath: Library/metadata/3a/3ae0eecac233ae3458d55270625f5d09
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/3c/3cebe1a96232b44388b30b2f72dde434
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/3c/3cebe1a96232b44388b30b2f72dde434
+    projectPath: Library/metadata/3c/3cebe1a96232b44388b30b2f72dde434
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/40/405b9b51bb344a128608d968297df79c
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/40/405b9b51bb344a128608d968297df79c
+    projectPath: Library/metadata/40/405b9b51bb344a128608d968297df79c
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/41/4113173d5e95493ab8765d7b08371de4
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/41/4113173d5e95493ab8765d7b08371de4
+    projectPath: Library/metadata/41/4113173d5e95493ab8765d7b08371de4
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/48/48986928cc2a449dbaecdd1654bc9bf6
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/48/48986928cc2a449dbaecdd1654bc9bf6
+    projectPath: Library/metadata/48/48986928cc2a449dbaecdd1654bc9bf6
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/4a/4a3ecb1425d14502837abea459cf2b70
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/4a/4a3ecb1425d14502837abea459cf2b70
+    projectPath: Library/metadata/4a/4a3ecb1425d14502837abea459cf2b70
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/4b/4b3fa4bde7f1451a8218c03ee6a8ded8
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/4b/4b3fa4bde7f1451a8218c03ee6a8ded8
+    projectPath: Library/metadata/4b/4b3fa4bde7f1451a8218c03ee6a8ded8
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/4b/4ba2329b63d54f0187bcaa12486b1b0f
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/4b/4ba2329b63d54f0187bcaa12486b1b0f
+    projectPath: Library/metadata/4b/4ba2329b63d54f0187bcaa12486b1b0f
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/4f/4f234578336894dc081edf696f2ff5f2
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/4f/4f234578336894dc081edf696f2ff5f2
+    projectPath: Library/metadata/4f/4f234578336894dc081edf696f2ff5f2
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/51/517af1b5b81b93b43b9745d58f017562
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/51/517af1b5b81b93b43b9745d58f017562
+    projectPath: Library/metadata/51/517af1b5b81b93b43b9745d58f017562
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/51/518cc357bd05d584da37727bcef44d3e
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/51/518cc357bd05d584da37727bcef44d3e
+    projectPath: Library/metadata/51/518cc357bd05d584da37727bcef44d3e
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/53/53ebcfaa2e1e4e2dbc85882cd5a73fa1
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/53/53ebcfaa2e1e4e2dbc85882cd5a73fa1
+    projectPath: Library/metadata/53/53ebcfaa2e1e4e2dbc85882cd5a73fa1
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/57/5782f9e9e6e0bb94bac99aeea24814fc
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/57/5782f9e9e6e0bb94bac99aeea24814fc
+    projectPath: Library/metadata/57/5782f9e9e6e0bb94bac99aeea24814fc
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/5f/5f32cd94baa94578a686d4b9d6b660f7
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/5f/5f32cd94baa94578a686d4b9d6b660f7
+    projectPath: Library/metadata/5f/5f32cd94baa94578a686d4b9d6b660f7
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/62/62772aad98ed04f0d955b7d20de61f7f
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/62/62772aad98ed04f0d955b7d20de61f7f
+    projectPath: Library/metadata/62/62772aad98ed04f0d955b7d20de61f7f
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/65/6597c6ea86d36477081342001145d8d9
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/65/6597c6ea86d36477081342001145d8d9
+    projectPath: Library/metadata/65/6597c6ea86d36477081342001145d8d9
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/67/67a48bef50c8f384ab614ca4fd2f1d25
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/67/67a48bef50c8f384ab614ca4fd2f1d25
+    projectPath: Library/metadata/67/67a48bef50c8f384ab614ca4fd2f1d25
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/6a/6a10b2909283487f913b00d94cd3faf5
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/6a/6a10b2909283487f913b00d94cd3faf5
+    projectPath: Library/metadata/6a/6a10b2909283487f913b00d94cd3faf5
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/6e/6e6e6ec76c1805643a2aaf14096685a6
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/6e/6e6e6ec76c1805643a2aaf14096685a6
+    projectPath: Library/metadata/6e/6e6e6ec76c1805643a2aaf14096685a6
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/6e/6e7c8cfeedae74eb3a562055e069e441
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/6e/6e7c8cfeedae74eb3a562055e069e441
+    projectPath: Library/metadata/6e/6e7c8cfeedae74eb3a562055e069e441
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/75/75799de484ac4f4cadc268d2cbea830a
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/75/75799de484ac4f4cadc268d2cbea830a
+    projectPath: Library/metadata/75/75799de484ac4f4cadc268d2cbea830a
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/76/7668179ede524d6396c8b7d84461ea29
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/76/7668179ede524d6396c8b7d84461ea29
+    projectPath: Library/metadata/76/7668179ede524d6396c8b7d84461ea29
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/7c/7c3a5d6e39b874f468b2691537168513
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/7c/7c3a5d6e39b874f468b2691537168513
+    projectPath: Library/metadata/7c/7c3a5d6e39b874f468b2691537168513
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/80/80a3616ca19596e4da0f10f14d241e9f
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/80/80a3616ca19596e4da0f10f14d241e9f
+    projectPath: Library/metadata/80/80a3616ca19596e4da0f10f14d241e9f
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/84/844f815391db42d49455cbf1a7bfc434
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/84/844f815391db42d49455cbf1a7bfc434
+    projectPath: Library/metadata/84/844f815391db42d49455cbf1a7bfc434
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/87/870353891bb340e2b2a9c8707e7419ba
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/87/870353891bb340e2b2a9c8707e7419ba
+    projectPath: Library/metadata/87/870353891bb340e2b2a9c8707e7419ba
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/87/87d08a5c9f6b28144a4023497f65f0f5
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/87/87d08a5c9f6b28144a4023497f65f0f5
+    projectPath: Library/metadata/87/87d08a5c9f6b28144a4023497f65f0f5
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/8b/8b4288d1388ee8a4e8c7959758c00d24
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/8b/8b4288d1388ee8a4e8c7959758c00d24
+    projectPath: Library/metadata/8b/8b4288d1388ee8a4e8c7959758c00d24
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/8e/8e7066e382b0fc749b25dbb1a3004dfe
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/8e/8e7066e382b0fc749b25dbb1a3004dfe
+    projectPath: Library/metadata/8e/8e7066e382b0fc749b25dbb1a3004dfe
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/90/9078b7128e594410d9b89e5b24cffd01
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/90/9078b7128e594410d9b89e5b24cffd01
+    projectPath: Library/metadata/90/9078b7128e594410d9b89e5b24cffd01
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/98/98563a0629dd23540b8b0f9d01916e82
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/98/98563a0629dd23540b8b0f9d01916e82
+    projectPath: Library/metadata/98/98563a0629dd23540b8b0f9d01916e82
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/99/99b48d4d4f6a66340ab06bd487d70a45
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/99/99b48d4d4f6a66340ab06bd487d70a45
+    projectPath: Library/metadata/99/99b48d4d4f6a66340ab06bd487d70a45
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/99/99ddb49592ff84811804420a1910cb89
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/99/99ddb49592ff84811804420a1910cb89
+    projectPath: Library/metadata/99/99ddb49592ff84811804420a1910cb89
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/9e/9efc8542754bbad45ae978e678c2d256
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/9e/9efc8542754bbad45ae978e678c2d256
+    projectPath: Library/metadata/9e/9efc8542754bbad45ae978e678c2d256
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/9e/9efc8542754bbad45ae978e678c2d256.info
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/9e/9efc8542754bbad45ae978e678c2d256.info
+    projectPath: Library/metadata/9e/9efc8542754bbad45ae978e678c2d256.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/a0/a0ded7adcc817ce489fec07977f16d13
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/a0/a0ded7adcc817ce489fec07977f16d13
+    projectPath: Library/metadata/a0/a0ded7adcc817ce489fec07977f16d13
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/a1/a1ae072c6d0a6fe42881de7c5c8d66eb
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/a1/a1ae072c6d0a6fe42881de7c5c8d66eb
+    projectPath: Library/metadata/a1/a1ae072c6d0a6fe42881de7c5c8d66eb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/a3/a342381d77833427fa10621e38fbae10
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/a3/a342381d77833427fa10621e38fbae10
+    projectPath: Library/metadata/a3/a342381d77833427fa10621e38fbae10
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/a3/a37e18887fa954edf92bc36bc353b879
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/a3/a37e18887fa954edf92bc36bc353b879
+    projectPath: Library/metadata/a3/a37e18887fa954edf92bc36bc353b879
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/a6/a6f3bb8c872124d6cb4cc3cd9753475e
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/a6/a6f3bb8c872124d6cb4cc3cd9753475e
+    projectPath: Library/metadata/a6/a6f3bb8c872124d6cb4cc3cd9753475e
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/ac/ac7392a6d767d1b4ea6330a9df84da8f
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/ac/ac7392a6d767d1b4ea6330a9df84da8f
+    projectPath: Library/metadata/ac/ac7392a6d767d1b4ea6330a9df84da8f
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/ad/adab7787bd7d44c4a9d48b3aff189c47
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/ad/adab7787bd7d44c4a9d48b3aff189c47
+    projectPath: Library/metadata/ad/adab7787bd7d44c4a9d48b3aff189c47
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library/metadata/ad/adab7787bd7d44c4a9d48b3aff189c47.info
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/ad/adab7787bd7d44c4a9d48b3aff189c47.info
+    projectPath: Library/metadata/ad/adab7787bd7d44c4a9d48b3aff189c47.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library/metadata/ad/adebbd281f1a4ef3a30be7f21937e02f
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/ad/adebbd281f1a4ef3a30be7f21937e02f
+    projectPath: Library/metadata/ad/adebbd281f1a4ef3a30be7f21937e02f
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/ae/ae14233de8247cb4cb90a55b3947c82d
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/ae/ae14233de8247cb4cb90a55b3947c82d
+    projectPath: Library/metadata/ae/ae14233de8247cb4cb90a55b3947c82d
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/b2/b2b693dffac3a4433b3114fea0b7fd4e
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/b2/b2b693dffac3a4433b3114fea0b7fd4e
+    projectPath: Library/metadata/b2/b2b693dffac3a4433b3114fea0b7fd4e
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/b2/b2bead50dbf86924f8e51f03ddbebf70
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/b2/b2bead50dbf86924f8e51f03ddbebf70
+    projectPath: Library/metadata/b2/b2bead50dbf86924f8e51f03ddbebf70
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/b5/b5da970776034f77a070d99423d68791
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/b5/b5da970776034f77a070d99423d68791
+    projectPath: Library/metadata/b5/b5da970776034f77a070d99423d68791
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/b8/b8a0574e92bd43a59e19d6c3c6ae54c7
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/b8/b8a0574e92bd43a59e19d6c3c6ae54c7
+    projectPath: Library/metadata/b8/b8a0574e92bd43a59e19d6c3c6ae54c7
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/ba/ba8ad3e6c5be01e448c1f3593515049c
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/ba/ba8ad3e6c5be01e448c1f3593515049c
+    projectPath: Library/metadata/ba/ba8ad3e6c5be01e448c1f3593515049c
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/be/be5c5d2605be4c94fa91ba08feaf9735
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/be/be5c5d2605be4c94fa91ba08feaf9735
+    projectPath: Library/metadata/be/be5c5d2605be4c94fa91ba08feaf9735
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/c4/c452c88a87f3d48ae945e7bcf1b4a6ba
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/c4/c452c88a87f3d48ae945e7bcf1b4a6ba
+    projectPath: Library/metadata/c4/c452c88a87f3d48ae945e7bcf1b4a6ba
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library/metadata/c4/c452c88a87f3d48ae945e7bcf1b4a6ba.info
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/c4/c452c88a87f3d48ae945e7bcf1b4a6ba.info
+    projectPath: Library/metadata/c4/c452c88a87f3d48ae945e7bcf1b4a6ba.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library/metadata/c7/c768acbc9cf24d398488bb4c93b91288
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/c7/c768acbc9cf24d398488bb4c93b91288
+    projectPath: Library/metadata/c7/c768acbc9cf24d398488bb4c93b91288
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/ca/cad92998c5182496e8b989b406d9f156
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/ca/cad92998c5182496e8b989b406d9f156
+    projectPath: Library/metadata/ca/cad92998c5182496e8b989b406d9f156
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/d3/d33d54853fd0f48e0ac8a63ea91e6626
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/d3/d33d54853fd0f48e0ac8a63ea91e6626
+    projectPath: Library/metadata/d3/d33d54853fd0f48e0ac8a63ea91e6626
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/d7/d73e02fc3b1ef564bbf82cbbc26cb299
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/d7/d73e02fc3b1ef564bbf82cbbc26cb299
+    projectPath: Library/metadata/d7/d73e02fc3b1ef564bbf82cbbc26cb299
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/d9/d91035c548f23744c9bfb107348ed1c0
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/d9/d91035c548f23744c9bfb107348ed1c0
+    projectPath: Library/metadata/d9/d91035c548f23744c9bfb107348ed1c0
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/da/da6465093332c5441aa637bb8c1dfe46
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/da/da6465093332c5441aa637bb8c1dfe46
+    projectPath: Library/metadata/da/da6465093332c5441aa637bb8c1dfe46
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/da/da6465093332c5441aa637bb8c1dfe46.info
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/da/da6465093332c5441aa637bb8c1dfe46.info
+    projectPath: Library/metadata/da/da6465093332c5441aa637bb8c1dfe46.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/db/db7f1ce34d58a4cdba50e35af934f4fc
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/db/db7f1ce34d58a4cdba50e35af934f4fc
+    projectPath: Library/metadata/db/db7f1ce34d58a4cdba50e35af934f4fc
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/dc/dc443db3e92b4983b9738c1131f555cb
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/dc/dc443db3e92b4983b9738c1131f555cb
+    projectPath: Library/metadata/dc/dc443db3e92b4983b9738c1131f555cb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/dc/dced8f6ea9f964e8e8e61574ea889d21
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/dc/dced8f6ea9f964e8e8e61574ea889d21
+    projectPath: Library/metadata/dc/dced8f6ea9f964e8e8e61574ea889d21
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/e0/e0c300917f6294fcd9085c1d7fc57300
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/e0/e0c300917f6294fcd9085c1d7fc57300
+    projectPath: Library/metadata/e0/e0c300917f6294fcd9085c1d7fc57300
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/e1/e1007cd261c84053beb0c3537782908d
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/e1/e1007cd261c84053beb0c3537782908d
+    projectPath: Library/metadata/e1/e1007cd261c84053beb0c3537782908d
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/e4/e4f4cf1b9b434137a499903a7a1d651a
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/e4/e4f4cf1b9b434137a499903a7a1d651a
+    projectPath: Library/metadata/e4/e4f4cf1b9b434137a499903a7a1d651a
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/e4/e4f4cf1b9b434137a499903a7a1d651a.info
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/e4/e4f4cf1b9b434137a499903a7a1d651a.info
+    projectPath: Library/metadata/e4/e4f4cf1b9b434137a499903a7a1d651a.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/ea/ead147da21254ff9a0a936bdd75e1680
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/ea/ead147da21254ff9a0a936bdd75e1680
+    projectPath: Library/metadata/ea/ead147da21254ff9a0a936bdd75e1680
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/ea/ead147da21254ff9a0a936bdd75e1680.info
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/ea/ead147da21254ff9a0a936bdd75e1680.info
+    projectPath: Library/metadata/ea/ead147da21254ff9a0a936bdd75e1680.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/ed/ed7343f30e3843b3afda8f8b02669cea
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/ed/ed7343f30e3843b3afda8f8b02669cea
+    projectPath: Library/metadata/ed/ed7343f30e3843b3afda8f8b02669cea
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/ee/eeed6954b3c264ca0b28a92aa6289bf0
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/ee/eeed6954b3c264ca0b28a92aa6289bf0
+    projectPath: Library/metadata/ee/eeed6954b3c264ca0b28a92aa6289bf0
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/f2/f28fcced5af094cf78eb4e1109a71981
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/f2/f28fcced5af094cf78eb4e1109a71981
+    projectPath: Library/metadata/f2/f28fcced5af094cf78eb4e1109a71981
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/f5/f56c4a97a2e385b45af3412a9e5d27b5
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/f5/f56c4a97a2e385b45af3412a9e5d27b5
+    projectPath: Library/metadata/f5/f56c4a97a2e385b45af3412a9e5d27b5
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/f5/f5f67c52d1564df4a8936ccd202a3bd8
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/f5/f5f67c52d1564df4a8936ccd202a3bd8
+    projectPath: Library/metadata/f5/f5f67c52d1564df4a8936ccd202a3bd8
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/f7/f70555f144d8491a825f0804e09c671c
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/f7/f70555f144d8491a825f0804e09c671c
+    projectPath: Library/metadata/f7/f70555f144d8491a825f0804e09c671c
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/f7/f7b54ff4a43d4fcf81b4538b678e0bcc
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/f7/f7b54ff4a43d4fcf81b4538b678e0bcc
+    projectPath: Library/metadata/f7/f7b54ff4a43d4fcf81b4538b678e0bcc
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/fc/fcd28afd6a7861649b697efcbf7c60fb
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/fc/fcd28afd6a7861649b697efcbf7c60fb
+    projectPath: Library/metadata/fc/fcd28afd6a7861649b697efcbf7c60fb
+    originalPath: 
+    status: 3
+    staged: 0
   - path: Library/shadercompiler-UnityShaderCompiler0.log
-    fullPath: /Users/cerkut/Developer/cerkut/BreathingLabs---BreathDroid/Library/shadercompiler-UnityShaderCompiler0.log
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/shadercompiler-UnityShaderCompiler0.log
     projectPath: Library/shadercompiler-UnityShaderCompiler0.log
     originalPath: 
     status: 3
     staged: 0
-  - path: Temp/UnityTempFile-101497ebd61d94f6e8d29707042dc83d
-    fullPath: /Users/cerkut/Developer/cerkut/BreathingLabs---BreathDroid/Temp/UnityTempFile-101497ebd61d94f6e8d29707042dc83d
-    projectPath: Temp/UnityTempFile-101497ebd61d94f6e8d29707042dc83d
+  - path: ProjectSettings/ProjectVersion.txt
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/ProjectSettings/ProjectVersion.txt
+    projectPath: ProjectSettings/ProjectVersion.txt
     originalPath: 
-    status: 5
+    status: 3
     staged: 0
-  - path: Temp/UnityTempFile-6e399a3992e614821ab54f52be87bc37
-    fullPath: /Users/cerkut/Developer/cerkut/BreathingLabs---BreathDroid/Temp/UnityTempFile-6e399a3992e614821ab54f52be87bc37
-    projectPath: Temp/UnityTempFile-6e399a3992e614821ab54f52be87bc37
+  - path: .vscode/settings.json
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/.vscode/settings.json
+    projectPath: .vscode/settings.json
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
-  - path: Temp/UnityTempFile-72d99eccc4ca1498bad9566f5ef46dde
-    fullPath: /Users/cerkut/Developer/cerkut/BreathingLabs---BreathDroid/Temp/UnityTempFile-72d99eccc4ca1498bad9566f5ef46dde
-    projectPath: Temp/UnityTempFile-72d99eccc4ca1498bad9566f5ef46dde
+  - path: Library/ShaderCache/0/02e15576faefb02c895dca86a004a13d.bin
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ShaderCache/0/02e15576faefb02c895dca86a004a13d.bin
+    projectPath: Library/ShaderCache/0/02e15576faefb02c895dca86a004a13d.bin
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
-  - path: Temp/UnityTempFile-b14269c8205044e1cb6f99f4a2b10c26
-    fullPath: /Users/cerkut/Developer/cerkut/BreathingLabs---BreathDroid/Temp/UnityTempFile-b14269c8205044e1cb6f99f4a2b10c26
-    projectPath: Temp/UnityTempFile-b14269c8205044e1cb6f99f4a2b10c26
+  - path: Library/ShaderCache/0/0b1929be383d378ae259a9be3e99eaf1.bin
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ShaderCache/0/0b1929be383d378ae259a9be3e99eaf1.bin
+    projectPath: Library/ShaderCache/0/0b1929be383d378ae259a9be3e99eaf1.bin
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
-  - path: Temp/UnityTempFile-d54e5638bf6aa48e5a16f85bc7636d05
-    fullPath: /Users/cerkut/Developer/cerkut/BreathingLabs---BreathDroid/Temp/UnityTempFile-d54e5638bf6aa48e5a16f85bc7636d05
-    projectPath: Temp/UnityTempFile-d54e5638bf6aa48e5a16f85bc7636d05
+  - path: Library/ShaderCache/1/1da3e4509ed187db47994bb7504c3883.bin
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ShaderCache/1/1da3e4509ed187db47994bb7504c3883.bin
+    projectPath: Library/ShaderCache/1/1da3e4509ed187db47994bb7504c3883.bin
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
-  - path: Temp/UnityTempFile-e59c95f413532413fadbb170494301ec
-    fullPath: /Users/cerkut/Developer/cerkut/BreathingLabs---BreathDroid/Temp/UnityTempFile-e59c95f413532413fadbb170494301ec
-    projectPath: Temp/UnityTempFile-e59c95f413532413fadbb170494301ec
+  - path: Library/ShaderCache/2/23d4db0fa01580bf55a608cb0790bbd8.bin
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ShaderCache/2/23d4db0fa01580bf55a608cb0790bbd8.bin
+    projectPath: Library/ShaderCache/2/23d4db0fa01580bf55a608cb0790bbd8.bin
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
-  - path: Temp/__Backupscenes/0.backup
-    fullPath: /Users/cerkut/Developer/cerkut/BreathingLabs---BreathDroid/Temp/__Backupscenes/0.backup
-    projectPath: Temp/__Backupscenes/0.backup
+  - path: Library/ShaderCache/2/26e6a0bc130956389a42dbde7137b0bc.bin
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ShaderCache/2/26e6a0bc130956389a42dbde7137b0bc.bin
+    projectPath: Library/ShaderCache/2/26e6a0bc130956389a42dbde7137b0bc.bin
     originalPath: 
-    status: 5
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/2/282fd8395396a6184ff4d9d897fd6a4f.bin
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ShaderCache/2/282fd8395396a6184ff4d9d897fd6a4f.bin
+    projectPath: Library/ShaderCache/2/282fd8395396a6184ff4d9d897fd6a4f.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/2/298abbbb05842d9252ef4883b05231c5.bin
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ShaderCache/2/298abbbb05842d9252ef4883b05231c5.bin
+    projectPath: Library/ShaderCache/2/298abbbb05842d9252ef4883b05231c5.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/2/2b40fdb55b5119a384ef3d9a8d6f9fe1.bin
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ShaderCache/2/2b40fdb55b5119a384ef3d9a8d6f9fe1.bin
+    projectPath: Library/ShaderCache/2/2b40fdb55b5119a384ef3d9a8d6f9fe1.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/2/2f27778cc5290ca4705319aa6b318872.bin
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ShaderCache/2/2f27778cc5290ca4705319aa6b318872.bin
+    projectPath: Library/ShaderCache/2/2f27778cc5290ca4705319aa6b318872.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/3/32604d087a5b26fb85f0aeb06b7beb82.bin
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ShaderCache/3/32604d087a5b26fb85f0aeb06b7beb82.bin
+    projectPath: Library/ShaderCache/3/32604d087a5b26fb85f0aeb06b7beb82.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/3/3b7316fbed564ad107824583f26f1618.bin
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ShaderCache/3/3b7316fbed564ad107824583f26f1618.bin
+    projectPath: Library/ShaderCache/3/3b7316fbed564ad107824583f26f1618.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/4/40ac4d9ea55e2be55de801597834c8f9.bin
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ShaderCache/4/40ac4d9ea55e2be55de801597834c8f9.bin
+    projectPath: Library/ShaderCache/4/40ac4d9ea55e2be55de801597834c8f9.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/4/4df98718e046e98d855fe55707ae20d4.bin
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ShaderCache/4/4df98718e046e98d855fe55707ae20d4.bin
+    projectPath: Library/ShaderCache/4/4df98718e046e98d855fe55707ae20d4.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/4/4f0cb68e1ef9afbd3df3d35ef37b2798.bin
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ShaderCache/4/4f0cb68e1ef9afbd3df3d35ef37b2798.bin
+    projectPath: Library/ShaderCache/4/4f0cb68e1ef9afbd3df3d35ef37b2798.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/5/558f15c89a104cfdd1679f5f96defb51.bin
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ShaderCache/5/558f15c89a104cfdd1679f5f96defb51.bin
+    projectPath: Library/ShaderCache/5/558f15c89a104cfdd1679f5f96defb51.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/5/5d648b1a469060dc51cc588590c745eb.bin
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ShaderCache/5/5d648b1a469060dc51cc588590c745eb.bin
+    projectPath: Library/ShaderCache/5/5d648b1a469060dc51cc588590c745eb.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/6/642139b21773b4cf2831cdc0ae6d90bd.bin
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ShaderCache/6/642139b21773b4cf2831cdc0ae6d90bd.bin
+    projectPath: Library/ShaderCache/6/642139b21773b4cf2831cdc0ae6d90bd.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/6/689f0b773c65e365941923187d08d662.bin
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ShaderCache/6/689f0b773c65e365941923187d08d662.bin
+    projectPath: Library/ShaderCache/6/689f0b773c65e365941923187d08d662.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/6/6e0f0c3f7db0694b5af1d0cbf7d50b4a.bin
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ShaderCache/6/6e0f0c3f7db0694b5af1d0cbf7d50b4a.bin
+    projectPath: Library/ShaderCache/6/6e0f0c3f7db0694b5af1d0cbf7d50b4a.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/7/7023a9cd6faccfcf200f27773e9fcc31.bin
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ShaderCache/7/7023a9cd6faccfcf200f27773e9fcc31.bin
+    projectPath: Library/ShaderCache/7/7023a9cd6faccfcf200f27773e9fcc31.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/7/7ab7ec1ab1152e8290f3a7eaa8b4ffce.bin
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ShaderCache/7/7ab7ec1ab1152e8290f3a7eaa8b4ffce.bin
+    projectPath: Library/ShaderCache/7/7ab7ec1ab1152e8290f3a7eaa8b4ffce.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/8/8cb85ac304622a0635b2f997f0e7aae5.bin
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ShaderCache/8/8cb85ac304622a0635b2f997f0e7aae5.bin
+    projectPath: Library/ShaderCache/8/8cb85ac304622a0635b2f997f0e7aae5.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/9/933afd3cb01cb1fe7661d7b27ac1a9df.bin
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ShaderCache/9/933afd3cb01cb1fe7661d7b27ac1a9df.bin
+    projectPath: Library/ShaderCache/9/933afd3cb01cb1fe7661d7b27ac1a9df.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/9/94f844857c0b3bb80352dbcc6215d7eb.bin
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ShaderCache/9/94f844857c0b3bb80352dbcc6215d7eb.bin
+    projectPath: Library/ShaderCache/9/94f844857c0b3bb80352dbcc6215d7eb.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/9/97722680bfe8db2e24b89c4488607f65.bin
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ShaderCache/9/97722680bfe8db2e24b89c4488607f65.bin
+    projectPath: Library/ShaderCache/9/97722680bfe8db2e24b89c4488607f65.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/9/98a784c2403554a9dcd04b39391caca0.bin
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ShaderCache/9/98a784c2403554a9dcd04b39391caca0.bin
+    projectPath: Library/ShaderCache/9/98a784c2403554a9dcd04b39391caca0.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/9/9e475675952a96ddd5c5f7595ab8e7d5.bin
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ShaderCache/9/9e475675952a96ddd5c5f7595ab8e7d5.bin
+    projectPath: Library/ShaderCache/9/9e475675952a96ddd5c5f7595ab8e7d5.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/a/a08c14f0e51d0d22fbf768404d48ff4e.bin
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ShaderCache/a/a08c14f0e51d0d22fbf768404d48ff4e.bin
+    projectPath: Library/ShaderCache/a/a08c14f0e51d0d22fbf768404d48ff4e.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/a/a47c74bd75b616c99a3986ce7adf5447.bin
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ShaderCache/a/a47c74bd75b616c99a3986ce7adf5447.bin
+    projectPath: Library/ShaderCache/a/a47c74bd75b616c99a3986ce7adf5447.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/a/a547d422d8717db2fcaddff2b65431e0.bin
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ShaderCache/a/a547d422d8717db2fcaddff2b65431e0.bin
+    projectPath: Library/ShaderCache/a/a547d422d8717db2fcaddff2b65431e0.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/a/aa73096bff33646446eb054c48a5ec9e.bin
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ShaderCache/a/aa73096bff33646446eb054c48a5ec9e.bin
+    projectPath: Library/ShaderCache/a/aa73096bff33646446eb054c48a5ec9e.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/a/ab5884222b38216827ce12abac43e51f.bin
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ShaderCache/a/ab5884222b38216827ce12abac43e51f.bin
+    projectPath: Library/ShaderCache/a/ab5884222b38216827ce12abac43e51f.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/a/ab5fc7067d75460dfbd606ad05f6629d.bin
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ShaderCache/a/ab5fc7067d75460dfbd606ad05f6629d.bin
+    projectPath: Library/ShaderCache/a/ab5fc7067d75460dfbd606ad05f6629d.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/a/ade1cc1113a63c3e5536eea4dd5cf97a.bin
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ShaderCache/a/ade1cc1113a63c3e5536eea4dd5cf97a.bin
+    projectPath: Library/ShaderCache/a/ade1cc1113a63c3e5536eea4dd5cf97a.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/a/af846df77a3cd79a63c44510c02af783.bin
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ShaderCache/a/af846df77a3cd79a63c44510c02af783.bin
+    projectPath: Library/ShaderCache/a/af846df77a3cd79a63c44510c02af783.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/b/b1c062ab401bb1a6843b9a5c08e34938.bin
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ShaderCache/b/b1c062ab401bb1a6843b9a5c08e34938.bin
+    projectPath: Library/ShaderCache/b/b1c062ab401bb1a6843b9a5c08e34938.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/b/b45dd0821745fb6c81bd66c09b0b094c.bin
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ShaderCache/b/b45dd0821745fb6c81bd66c09b0b094c.bin
+    projectPath: Library/ShaderCache/b/b45dd0821745fb6c81bd66c09b0b094c.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/c/c3e990ca1473ac0ee87cc76b16f85d27.bin
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ShaderCache/c/c3e990ca1473ac0ee87cc76b16f85d27.bin
+    projectPath: Library/ShaderCache/c/c3e990ca1473ac0ee87cc76b16f85d27.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/c/c3f5ec0c37a3484a5bccc22164c538f2.bin
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ShaderCache/c/c3f5ec0c37a3484a5bccc22164c538f2.bin
+    projectPath: Library/ShaderCache/c/c3f5ec0c37a3484a5bccc22164c538f2.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/c/cc7027ceeae17de90dad1e61cf5b605a.bin
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ShaderCache/c/cc7027ceeae17de90dad1e61cf5b605a.bin
+    projectPath: Library/ShaderCache/c/cc7027ceeae17de90dad1e61cf5b605a.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/c/cf7651a8c732234bb6fc204d7f84d7e4.bin
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ShaderCache/c/cf7651a8c732234bb6fc204d7f84d7e4.bin
+    projectPath: Library/ShaderCache/c/cf7651a8c732234bb6fc204d7f84d7e4.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/e/ea7332892c1ac3dcd96bb073872a4abe.bin
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ShaderCache/e/ea7332892c1ac3dcd96bb073872a4abe.bin
+    projectPath: Library/ShaderCache/e/ea7332892c1ac3dcd96bb073872a4abe.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/e/ef3b284ac736d8512577d75791564bb7.bin
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ShaderCache/e/ef3b284ac736d8512577d75791564bb7.bin
+    projectPath: Library/ShaderCache/e/ef3b284ac736d8512577d75791564bb7.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/f/f2b47db03a8dccfb27ae150b973299bc.bin
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ShaderCache/f/f2b47db03a8dccfb27ae150b973299bc.bin
+    projectPath: Library/ShaderCache/f/f2b47db03a8dccfb27ae150b973299bc.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/f/fa2e009ff7e39e4d02b762e495b02954.bin
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ShaderCache/f/fa2e009ff7e39e4d02b762e495b02954.bin
+    projectPath: Library/ShaderCache/f/fa2e009ff7e39e4d02b762e495b02954.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/f/fc5a3bb831e2ab762be60d12986bff70.bin
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/ShaderCache/f/fc5a3bb831e2ab762be60d12986bff70.bin
+    projectPath: Library/ShaderCache/f/fc5a3bb831e2ab762be60d12986bff70.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/35/35b4e72ca46f44581b85082c4dc21d13
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/35/35b4e72ca46f44581b85082c4dc21d13
+    projectPath: Library/metadata/35/35b4e72ca46f44581b85082c4dc21d13
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/35/35b4e72ca46f44581b85082c4dc21d13.info
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/35/35b4e72ca46f44581b85082c4dc21d13.info
+    projectPath: Library/metadata/35/35b4e72ca46f44581b85082c4dc21d13.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/3b/3b07d432cba2a4c4f8a2fdea984620b8
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/3b/3b07d432cba2a4c4f8a2fdea984620b8
+    projectPath: Library/metadata/3b/3b07d432cba2a4c4f8a2fdea984620b8
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/3b/3b07d432cba2a4c4f8a2fdea984620b8.info
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/3b/3b07d432cba2a4c4f8a2fdea984620b8.info
+    projectPath: Library/metadata/3b/3b07d432cba2a4c4f8a2fdea984620b8.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/5e/5e57a6c62c1ec47d0bceb70495845164
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/5e/5e57a6c62c1ec47d0bceb70495845164
+    projectPath: Library/metadata/5e/5e57a6c62c1ec47d0bceb70495845164
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/5e/5e57a6c62c1ec47d0bceb70495845164.info
+    fullPath: /Users/cerkut/temp/BreathingLabs---BreathDroid/Library/metadata/5e/5e57a6c62c1ec47d0bceb70495845164.info
+    projectPath: Library/metadata/5e/5e57a6c62c1ec47d0bceb70495845164.info
+    originalPath: 
+    status: 1
     staged: 0
